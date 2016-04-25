@@ -1,0 +1,46 @@
+music_directory                 "/home/joao_lucas/Música"  ##Caso o diretorio de seus arquivos seja outro não se esqueça de modificar essa linha.
+playlist_directory              "/home/joao_lucas/.mpd/playlists"
+db_file                         "/home/joao_lucas/.mpd/mpd.db"
+log_file                        "/home/joao_lucas/.mpd/mpd.log"
+pid_file                        "/home/joao_lucas/.mpd/mpd.pid"
+state_file                      "/home/joao_lucas/.mpd/mpdstate"
+#user				"joao_lucas"
+
+#bind_to_address "127.0.0.1"
+
+auto_update                     "yes"
+filesystem_charset              "UTF-8"
+id3v1_encoding                  "UTF-8"
+max_playlist_length             "65536"
+mixer_type                      "software"
+replaygain                      "track"
+gapless_mp3_playback            "yes"
+
+
+#audio_output {
+#        type                    "alsa"
+#        name                    "My ALSA EQ"
+#        auto_resample           "no"
+#        device                  "plug:plugequal"        
+#       mixer_type              "hardware"      # optional
+#       mixer_device            "default"       # optional
+#       mixer_control           "PCM"           # optional
+#       mixer_index             "0"             # optional
+
+#}
+
+audio_output {
+  type    "pulse"
+  name    "MPD"              
+# server    "remote_server"   # optional
+# sink    "remote_server_sink"  # optional
+}
+
+
+
+
+audio_output {
+        type                    "fifo"
+        name                    "My FIFO"
+        path                    "/tmp/mpd.fifo"
+} 
