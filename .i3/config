@@ -32,7 +32,7 @@ floating_modifier $mod
 # Atalho para o thunar
 bindsym $mod+t exec thunar
 
-# Criando atalho pro google chrome
+# Atalho pro google chrome
 bindsym $mod+c exec chromium
 
 # Atalho pro screenshot
@@ -46,7 +46,7 @@ bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Voce pressionou o atalho par
 
 
 #Xterm+tmux
-bindsym $mod+Return exec  xfce4-terminal
+bindsym $mod+Return exec  termite
 
 #Aumentar e diminuir o volume
 #bindsym Mod1+Up exec --no-startup-id amixer -q set 'Master' 5%+
@@ -68,7 +68,7 @@ bindsym --release Print exec --no-startup-id scrot %Y-%m-%d-%T.png -e 'mv $f ~/I
 ## autostart applications
  
 #exec --no-startup-id sh ~/.i3/wallpaper 
-exec --no-startup-id numlockx on
+#exec --no-startup-id numlockx on
 #exec --no-startup-id  feh --bg-scale /home/joao_lucas/Laboratorios/Dotfiles/Wallpaper/Blackarch.png 
 #exec --no-startup-id conky -c ~/conky/conky_lua 
 #exec_always ~/.random_wallpaper1.sh
@@ -83,7 +83,7 @@ bindsym $mod+Shift+q kill
 # start dmenu (a program launcher)
  
 
-bindsym $mod+d exec dmenu_run -b  -fn 'xft:FontAwesome:pixelsize=10' -nb '#191919' -nf '#9ac0cd' -sb '#191919' -sf '#34b4bf' -p 'BUSCAR'
+bindsym $mod+d exec dmenu_run -b  -fn 'xft:FontAwesome:pixelsize=10' -nb '#191919' -nf '#9ac0cd' -sb '#191919' -sf '#FF0000' -p 'BUSCAR'
  
 ##======================================================================================
  
@@ -284,9 +284,11 @@ bar {
   binding_mode_indicator yes
   font pango:  FontAwesome 8.5
   colors {
-                background #222222
+                background #000000
+ ##222222
 		statusline #dddddd
-		separator #666666
+		separator #FFFFFF 
+##666666
 
  # class 		  border    backgrd    text
                 focused_workspace  #0088cc #0088cc #ffffff
