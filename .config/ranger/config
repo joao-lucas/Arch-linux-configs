@@ -13,6 +13,7 @@
 # file there with `ranger --copy-config=options' and make your modifications.
 # But make sure you update your configs when you update ranger.
 # ===================================================================
+#
 
 # Load the deault rc.conf file?  If you've copied it to your configuration
 # direcory, then you should deactivate this option.
