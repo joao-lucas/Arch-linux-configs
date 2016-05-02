@@ -1,6 +1,5 @@
 " Author: Tiago Silva <https://github.com/Morgareth>
 " 
-
 """""""""""""""""""""""""""""""""""""""""""""
 " Usa as definições do vim, não as do vi
 set nocompatible
