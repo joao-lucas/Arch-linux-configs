@@ -28,4 +28,4 @@
 
 
 ## Autor
-João Lucas <joaolucas@linuxmail.org>
+João Lucas <<joaolucas@linuxmail.org>>
