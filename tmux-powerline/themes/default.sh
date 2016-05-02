@@ -46,13 +46,13 @@ if [ -z $TMUX_POWERLINE_RIGHT_STATUS_SEGMENTS ]; then
                 #"cpu 240 136 ${TMUX_POWERLINE_SEPARATOR_RIGHT_BOLD} ${TMUX_POWERLINE_DEFAULT_RIGHTSIDE_SEPARATOR}" \
 		#"load 237 167" \
                 #"tmux_mem_cpu_load 0 10 ${TMUX_POWERLINE_SEPARATOR_LEFT_BOLD} " \
-		#"battery 137 127" \
+		"battery 23 255" \
 		#"xkb_layout 1 0" \
                 #"rainbarf 0 ${TMUX_POWERLINE_DEFAULT_FOREGROUND_COLOR}" \
 		#"date_day 0 255" \
 		#"date 0 255 ${TMUX_POWERLINE_SEPARATOR_LEFT_THIN}" \
 		#"time 0 255 ${TMUX_POWERLINE_SEPARATOR_LEFT_THIN}" \
 		#"utc_time 235 136 ${TMUX_POWERLINE_SEPARATOR_LEFT_THIN}" \
-		"xkb_layout 60 0" \
+		"xkb_layout 10 0" \
 	)
 fi
