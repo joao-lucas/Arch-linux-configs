@@ -1,10 +1,10 @@
-music_directory                 "/home/joao_lucas/Música"  ##Caso o diretorio de seus arquivos seja outro não se esqueça de modificar essa linha.
+music_directory                 "/home/joao_lucas/Música"
 playlist_directory              "/home/joao_lucas/.mpd/playlists"
-db_file                         "/home/joao_lucas/.mpd/mpd.db"
-log_file                        "/home/joao_lucas/.mpd/mpd.log"
-pid_file                        "/home/joao_lucas/.mpd/mpd.pid"
-state_file                      "/home/joao_lucas/.mpd/mpdstate"
-#user				"joao_lucas"
+db_file                         "/home/joao_lucas/.mpd/database"
+log_file                        "/home/joao_lucas/.mpd/log"
+pid_file                        "/home/joao_lucas/.mpd/pid"
+state_file                      "/home/joao_lucas/.mpd/state"
+user				"joao_lucas"
 
 #bind_to_address "127.0.0.1"
 
