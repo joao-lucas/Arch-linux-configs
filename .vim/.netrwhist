@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/joao_lucas/Área de trabalho/Scripts'
+let g:netrw_dirhist_2='/home/joao_lucas'
+let g:netrw_dirhist_3='/home/joao_lucas/Música'
+let g:netrw_dirhist_4='/home/joao_lucas/.vim/bundle/tmuxline.vim'
+let g:netrw_dirhist_5='/home/joao_lucas/.vim/bundle/Vundle.vim/autoload/vundle'
