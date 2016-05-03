@@ -1,0 +1,1524 @@
+May 02 21:41 : player: played "Criolo Doido - Ainda Ha Tempo.mp3"
+May 02 21:41 : client: [0] opened from [::1]:38186
+May 02 21:41 : alsa_mixer: Failed to read mixer for 'My ALSA': no such mixer control: PCM
+May 02 21:41 : client: [0] closed
+May 02 21:41 : client: [1] opened from [::1]:38188
+May 02 21:41 : client: [2] opened from [::1]:38190
+May 02 21:41 : client: [3] opened from [::1]:38192
+May 02 21:41 : client: [3] closed
+May 02 21:41 : client: [4] opened from [::1]:38194
+May 02 21:41 : client: [5] opened from [::1]:38196
+May 02 21:41 : client: [5] closed
+May 02 21:41 : player: played "Criolo Doido - Ainda Ha Tempo.mp3"
+ALSA lib pcm_hw.c:1701:(_snd_pcm_hw_open) Invalid value for card
+May 02 21:41 : alsa_output: Failed to open "My ALSA" [alsa]: Failed to open ALSA device "default": No such device
+May 02 21:41 : client: [6] opened from [::1]:38198
+May 02 21:41 : client: [6] closed
+May 02 21:41 : client: [7] opened from [::1]:38200
+May 02 21:41 : client: [7] closed
+May 02 21:41 : client: [8] opened from [::1]:38202
+May 02 21:41 : client: [8] closed
+May 02 21:41 : client: [9] opened from [::1]:38204
+May 02 21:41 : client: [9] closed
+May 02 21:41 : client: [10] opened from [::1]:38206
+May 02 21:41 : client: [10] closed
+May 02 21:41 : client: [11] opened from [::1]:38208
+May 02 21:41 : client: [11] closed
+May 02 21:41 : client: [12] opened from [::1]:38210
+May 02 21:41 : client: [12] closed
+May 02 21:41 : client: [13] opened from [::1]:38212
+May 02 21:41 : client: [13] closed
+May 02 21:41 : client: [14] opened from [::1]:38214
+May 02 21:41 : client: [14] closed
+May 02 21:41 : client: [15] opened from [::1]:38216
+May 02 21:41 : client: [15] closed
+May 02 21:41 : client: [16] opened from [::1]:38218
+May 02 21:41 : client: [16] closed
+May 02 21:41 : client: [17] opened from [::1]:38220
+May 02 21:41 : client: [17] closed
+May 02 21:41 : client: [18] opened from [::1]:38222
+May 02 21:41 : client: [18] closed
+May 02 21:41 : client: [19] opened from [::1]:38224
+May 02 21:41 : client: [19] closed
+May 02 21:41 : client: [20] opened from [::1]:38226
+May 02 21:41 : client: [20] closed
+May 02 21:41 : client: [21] opened from [::1]:38228
+May 02 21:41 : client: [21] closed
+May 02 21:41 : client: [22] opened from [::1]:38230
+May 02 21:41 : client: [22] closed
+May 02 21:41 : client: [23] opened from [::1]:38232
+May 02 21:41 : client: [23] closed
+May 02 21:41 : client: [24] opened from [::1]:38234
+May 02 21:41 : client: [24] closed
+May 02 21:41 : client: [25] opened from [::1]:38236
+May 02 21:41 : client: [25] closed
+May 02 21:41 : client: [26] opened from [::1]:38238
+May 02 21:41 : client: [26] closed
+May 02 21:41 : client: [27] opened from [::1]:38240
+May 02 21:41 : client: [27] closed
+May 02 21:41 : client: [28] opened from [::1]:38242
+May 02 21:41 : client: [28] closed
+May 02 21:41 : client: [29] opened from [::1]:38244
+May 02 21:41 : client: [29] closed
+May 02 21:41 : client: [30] opened from [::1]:38246
+May 02 21:41 : client: [30] closed
+May 02 21:41 : client: [31] opened from [::1]:38248
+May 02 21:41 : client: [31] closed
+May 02 21:41 : client: [32] opened from [::1]:38252
+May 02 21:41 : client: [32] closed
+May 02 21:41 : client: [33] opened from [::1]:38254
+May 02 21:41 : client: [33] closed
+May 02 21:41 : client: [34] opened from [::1]:38256
+May 02 21:41 : client: [34] closed
+May 02 21:41 : client: [35] opened from [::1]:38258
+May 02 21:41 : client: [35] closed
+May 02 21:41 : client: [36] opened from [::1]:38260
+May 02 21:41 : client: [36] closed
+May 02 21:41 : client: [37] opened from [::1]:38262
+May 02 21:41 : client: [37] closed
+May 02 21:41 : client: [38] opened from [::1]:38264
+May 02 21:41 : client: [38] closed
+May 02 21:41 : client: [39] opened from [::1]:38266
+May 02 21:41 : client: [39] closed
+May 02 21:41 : client: [40] opened from [::1]:38268
+May 02 21:41 : client: [40] closed
+May 02 21:42 : client: [41] opened from [::1]:38270
+May 02 21:42 : client: [41] closed
+May 02 21:42 : client: [42] opened from [::1]:38272
+May 02 21:42 : client: [42] closed
+May 02 21:42 : client: [43] opened from [::1]:38274
+May 02 21:42 : client: [43] closed
+May 02 21:42 : client: [44] opened from [::1]:38276
+May 02 21:42 : client: [44] closed
+May 02 21:42 : client: [45] opened from [::1]:38278
+May 02 21:42 : client: [45] closed
+May 02 21:42 : client: [46] opened from [::1]:38280
+May 02 21:42 : client: [46] closed
+May 02 21:42 : client: [47] opened from [::1]:38282
+May 02 21:42 : client: [47] closed
+May 02 21:42 : client: [48] opened from [::1]:38284
+May 02 21:42 : client: [48] closed
+May 02 21:42 : client: [49] opened from [::1]:38286
+May 02 21:42 : client: [49] closed
+May 02 21:42 : client: [50] opened from [::1]:38288
+May 02 21:42 : client: [50] closed
+May 02 21:42 : client: [51] opened from [::1]:38290
+May 02 21:42 : client: [51] closed
+May 02 21:42 : client: [52] opened from [::1]:38292
+May 02 21:42 : client: [52] closed
+May 02 21:42 : client: [53] opened from [::1]:38294
+May 02 21:42 : client: [53] closed
+May 02 21:42 : client: [54] opened from [::1]:38296
+May 02 21:42 : client: [54] closed
+May 02 21:42 : client: [55] opened from [::1]:38298
+May 02 21:42 : client: [55] closed
+May 02 21:42 : client: [56] opened from [::1]:38300
+May 02 21:42 : client: [56] closed
+May 02 21:42 : client: [57] opened from [::1]:38302
+May 02 21:42 : client: [57] closed
+May 02 21:42 : client: [58] opened from [::1]:38304
+May 02 21:42 : client: [58] closed
+May 02 21:42 : client: [59] opened from [::1]:38306
+May 02 21:42 : client: [59] closed
+May 02 21:42 : client: [60] opened from [::1]:38308
+May 02 21:42 : client: [60] closed
+May 02 21:42 : client: [61] opened from [::1]:38310
+May 02 21:42 : client: [61] closed
+May 02 21:42 : client: [62] opened from [::1]:38312
+May 02 21:42 : client: [62] closed
+May 02 21:42 : client: [63] opened from [::1]:38314
+May 02 21:42 : client: [63] closed
+May 02 21:42 : client: [64] opened from [::1]:38316
+May 02 21:42 : client: [64] closed
+May 02 21:42 : client: [65] opened from [::1]:38318
+May 02 21:42 : client: [65] closed
+May 02 21:42 : client: [66] opened from [::1]:38320
+May 02 21:42 : client: [66] closed
+May 02 21:42 : client: [67] opened from [::1]:38322
+May 02 21:42 : client: [67] closed
+May 02 21:42 : client: [68] opened from [::1]:38324
+May 02 21:42 : client: [68] closed
+May 02 21:42 : client: [69] opened from [::1]:38326
+May 02 21:42 : client: [69] closed
+May 02 21:42 : client: [70] opened from [::1]:38328
+May 02 21:42 : client: [70] closed
+May 02 21:42 : client: [71] opened from [::1]:38330
+May 02 21:42 : client: [71] closed
+May 02 21:42 : client: [72] opened from [::1]:38332
+May 02 21:42 : client: [72] closed
+May 02 21:42 : client: [73] opened from [::1]:38334
+May 02 21:42 : client: [73] closed
+May 02 21:42 : client: [74] opened from [::1]:38336
+May 02 21:42 : client: [74] closed
+May 02 21:42 : client: [75] opened from [::1]:38338
+May 02 21:42 : client: [75] closed
+May 02 21:42 : client: [76] opened from [::1]:38340
+May 02 21:42 : client: [76] closed
+May 02 21:42 : client: [77] opened from [::1]:38342
+May 02 21:42 : client: [77] closed
+May 02 21:42 : client: [78] opened from [::1]:38344
+May 02 21:42 : client: [78] closed
+May 02 21:42 : client: [79] opened from [::1]:38346
+May 02 21:42 : client: [79] closed
+May 02 21:42 : client: [80] opened from [::1]:38348
+May 02 21:42 : client: [80] closed
+May 02 21:42 : client: [81] opened from [::1]:38350
+May 02 21:42 : client: [81] closed
+May 02 21:42 : client: [82] opened from [::1]:38352
+May 02 21:42 : client: [82] closed
+May 02 21:42 : client: [83] opened from [::1]:38354
+May 02 21:42 : client: [83] closed
+May 02 21:42 : client: [84] opened from [::1]:38356
+May 02 21:42 : client: [84] closed
+May 02 21:42 : client: [85] opened from [::1]:38358
+May 02 21:42 : client: [85] closed
+May 02 21:42 : client: [86] opened from [::1]:38360
+May 02 21:42 : client: [86] closed
+May 02 21:42 : client: [87] opened from [::1]:38362
+May 02 21:42 : client: [87] closed
+May 02 21:42 : client: [88] opened from [::1]:38364
+May 02 21:42 : client: [88] closed
+May 02 21:42 : client: [89] opened from [::1]:38366
+May 02 21:42 : client: [89] closed
+May 02 21:42 : client: [90] opened from [::1]:38368
+May 02 21:42 : client: [90] closed
+May 02 21:42 : client: [91] opened from [::1]:38370
+May 02 21:42 : client: [91] closed
+May 02 21:42 : client: [92] opened from [::1]:38372
+May 02 21:42 : client: [92] closed
+May 02 21:42 : client: [93] opened from [::1]:38374
+May 02 21:42 : client: [93] closed
+May 02 21:42 : client: [94] opened from [::1]:38376
+May 02 21:42 : client: [94] closed
+May 02 21:42 : client: [95] opened from [::1]:38378
+May 02 21:42 : client: [95] closed
+May 02 21:42 : client: [96] opened from [::1]:38380
+May 02 21:42 : client: [96] closed
+May 02 21:42 : client: [97] opened from [::1]:38382
+May 02 21:42 : client: [97] closed
+May 02 21:42 : client: [98] opened from [::1]:38384
+May 02 21:42 : client: [98] closed
+May 02 21:42 : client: [99] opened from [::1]:38386
+May 02 21:42 : client: [99] closed
+May 02 21:42 : client: [100] opened from [::1]:38388
+May 02 21:42 : client: [100] closed
+May 02 21:43 : client: [101] opened from [::1]:38390
+May 02 21:43 : client: [101] closed
+May 02 21:43 : client: [102] opened from [::1]:38392
+May 02 21:43 : client: [102] closed
+May 02 21:43 : client: [103] opened from [::1]:38394
+May 02 21:43 : client: [103] closed
+May 02 21:43 : client: [104] opened from [::1]:38396
+May 02 21:43 : client: [104] closed
+May 02 21:43 : client: [105] opened from [::1]:38398
+May 02 21:43 : client: [105] closed
+May 02 21:43 : client: [106] opened from [::1]:38400
+May 02 21:43 : client: [106] closed
+May 02 21:43 : client: [107] opened from [::1]:38402
+May 02 21:43 : client: [107] closed
+May 02 21:43 : client: [108] opened from [::1]:38404
+May 02 21:43 : client: [108] closed
+May 02 21:43 : client: [109] opened from [::1]:38406
+May 02 21:43 : client: [109] closed
+May 02 21:43 : client: [110] opened from [::1]:38408
+May 02 21:43 : client: [110] closed
+May 02 21:43 : client: [111] opened from [::1]:38410
+May 02 21:43 : client: [111] closed
+May 02 21:43 : client: [112] opened from [::1]:38412
+May 02 21:43 : client: [112] closed
+May 02 21:43 : client: [113] opened from [::1]:38414
+May 02 21:43 : client: [113] closed
+May 02 21:43 : client: [114] opened from [::1]:38416
+May 02 21:43 : client: [114] closed
+May 02 21:43 : client: [115] opened from [::1]:38418
+May 02 21:43 : client: [115] closed
+May 02 21:43 : client: [116] opened from [::1]:38420
+May 02 21:43 : client: [116] closed
+May 02 21:43 : client: [117] opened from [::1]:38422
+May 02 21:43 : client: [117] closed
+May 02 21:43 : client: [118] opened from [::1]:38424
+May 02 21:43 : client: [118] closed
+May 02 21:43 : client: [119] opened from [::1]:38426
+May 02 21:43 : client: [119] closed
+May 02 21:43 : client: [120] opened from [::1]:38428
+May 02 21:43 : client: [120] closed
+May 02 21:43 : client: [121] opened from [::1]:38430
+May 02 21:43 : client: [121] closed
+May 02 21:43 : client: [122] opened from [::1]:38432
+May 02 21:43 : client: [122] closed
+May 02 21:43 : client: [123] opened from [::1]:38434
+May 02 21:43 : client: [123] closed
+May 02 21:43 : client: [124] opened from [::1]:38436
+May 02 21:43 : client: [124] closed
+May 02 21:43 : client: [125] opened from [::1]:38438
+May 02 21:43 : client: [125] closed
+May 02 21:43 : client: [126] opened from [::1]:38440
+May 02 21:43 : client: [126] closed
+May 02 21:43 : client: [127] opened from [::1]:38442
+May 02 21:43 : client: [127] closed
+May 02 21:43 : client: [128] opened from [::1]:38444
+May 02 21:43 : client: [128] closed
+May 02 21:43 : client: [129] opened from [::1]:38446
+May 02 21:43 : client: [129] closed
+May 02 21:43 : client: [130] opened from [::1]:38448
+May 02 21:43 : client: [130] closed
+May 02 21:43 : client: [131] opened from [::1]:38450
+May 02 21:43 : client: [131] closed
+May 02 21:43 : client: [132] opened from [::1]:38452
+May 02 21:43 : client: [132] closed
+May 02 21:43 : client: [133] opened from [::1]:38454
+May 02 21:43 : client: [133] closed
+May 02 21:43 : client: [134] opened from [::1]:38456
+May 02 21:43 : client: [134] closed
+May 02 21:43 : client: [135] opened from [::1]:38458
+May 02 21:43 : client: [135] closed
+May 02 21:43 : client: [136] opened from [::1]:38460
+May 02 21:43 : client: [136] closed
+May 02 21:43 : client: [137] opened from [::1]:38462
+May 02 21:43 : client: [137] closed
+May 02 21:43 : client: [138] opened from [::1]:38464
+May 02 21:43 : client: [138] closed
+May 02 21:43 : client: [139] opened from [::1]:38466
+May 02 21:43 : client: [139] closed
+May 02 21:43 : client: [140] opened from [::1]:38468
+May 02 21:43 : client: [140] closed
+May 02 21:43 : client: [141] opened from [::1]:38470
+May 02 21:43 : client: [141] closed
+May 02 21:43 : client: [142] opened from [::1]:38472
+May 02 21:43 : client: [142] closed
+May 02 21:43 : client: [143] opened from [::1]:38474
+May 02 21:43 : client: [143] closed
+May 02 21:43 : client: [144] opened from [::1]:38476
+May 02 21:43 : client: [144] closed
+May 02 21:43 : client: [145] opened from [::1]:38478
+May 02 21:43 : client: [145] closed
+May 02 21:43 : client: [146] opened from [::1]:38480
+May 02 21:43 : client: [146] closed
+May 02 21:43 : client: [147] opened from [::1]:38482
+May 02 21:43 : client: [147] closed
+May 02 21:43 : client: [148] opened from [::1]:38484
+May 02 21:43 : client: [148] closed
+May 02 21:43 : client: [149] opened from [::1]:38486
+May 02 21:43 : client: [149] closed
+May 02 21:43 : client: [150] opened from [::1]:38488
+May 02 21:43 : client: [150] closed
+May 02 21:43 : client: [151] opened from [::1]:38490
+May 02 21:43 : client: [151] closed
+May 02 21:43 : client: [152] opened from [::1]:38492
+May 02 21:43 : client: [152] closed
+May 02 21:43 : client: [153] opened from [::1]:38494
+May 02 21:43 : client: [153] closed
+May 02 21:43 : client: [154] opened from [::1]:38496
+May 02 21:43 : client: [154] closed
+May 02 21:43 : client: [155] opened from [::1]:38498
+May 02 21:43 : client: [155] closed
+May 02 21:43 : client: [156] opened from [::1]:38500
+May 02 21:43 : client: [156] closed
+May 02 21:43 : client: [157] opened from [::1]:38502
+May 02 21:43 : client: [157] closed
+May 02 21:43 : client: [158] opened from [::1]:38504
+May 02 21:43 : client: [158] closed
+May 02 21:43 : client: [159] opened from [::1]:38506
+May 02 21:43 : client: [159] closed
+May 02 21:43 : client: [160] opened from [::1]:38508
+May 02 21:43 : client: [160] closed
+May 02 21:43 : client: [161] opened from [::1]:38510
+May 02 21:43 : client: [161] closed
+May 02 21:43 : client: [162] opened from [::1]:38512
+May 02 21:43 : client: [162] closed
+May 02 21:43 : client: [163] opened from [::1]:38514
+May 02 21:43 : client: [163] closed
+May 02 21:43 : client: [164] opened from [::1]:38516
+May 02 21:43 : client: [164] closed
+May 02 21:43 : client: [165] opened from [::1]:38518
+May 02 21:43 : client: [165] closed
+May 02 21:43 : client: [166] opened from [::1]:38520
+May 02 21:43 : client: [166] closed
+May 02 21:43 : client: [167] opened from [::1]:38522
+May 02 21:43 : client: [167] closed
+May 02 21:43 : client: [168] opened from [::1]:38524
+May 02 21:43 : client: [168] closed
+May 02 21:43 : client: [169] opened from [::1]:38526
+May 02 21:43 : client: [169] closed
+May 02 21:43 : client: [170] opened from [::1]:38528
+May 02 21:43 : client: [170] closed
+May 02 21:44 : client: [171] opened from [::1]:38530
+May 02 21:44 : client: [171] closed
+May 02 21:44 : client: [172] opened from [::1]:38532
+May 02 21:44 : client: [172] closed
+May 02 21:44 : client: [173] opened from [::1]:38534
+May 02 21:44 : client: [173] closed
+May 02 21:44 : client: [174] opened from [::1]:38536
+May 02 21:44 : client: [174] closed
+May 02 21:44 : client: [175] opened from [::1]:38538
+May 02 21:44 : client: [175] closed
+May 02 21:44 : client: [176] opened from [::1]:38540
+May 02 21:44 : client: [176] closed
+May 02 21:44 : client: [177] opened from [::1]:38542
+May 02 21:44 : client: [177] closed
+May 02 21:44 : client: [178] opened from [::1]:38544
+May 02 21:44 : client: [178] closed
+May 02 21:44 : client: [179] opened from [::1]:38546
+May 02 21:44 : client: [179] closed
+May 02 21:44 : client: [180] opened from [::1]:38548
+May 02 21:44 : client: [180] closed
+May 02 21:44 : client: [181] opened from [::1]:38550
+May 02 21:44 : client: [181] closed
+May 02 21:44 : client: [182] opened from [::1]:38552
+May 02 21:44 : client: [182] closed
+May 02 21:44 : client: [183] opened from [::1]:38554
+May 02 21:44 : client: [183] closed
+May 02 21:44 : client: [184] opened from [::1]:38556
+May 02 21:44 : client: [184] closed
+May 02 21:44 : client: [185] opened from [::1]:38558
+May 02 21:44 : client: [185] closed
+May 02 21:44 : client: [186] opened from [::1]:38560
+May 02 21:44 : client: [186] closed
+May 02 21:44 : client: [187] opened from [::1]:38562
+May 02 21:44 : client: [187] closed
+May 02 21:44 : client: [188] opened from [::1]:38564
+May 02 21:44 : client: [188] closed
+May 02 21:44 : client: [189] opened from [::1]:38566
+May 02 21:44 : client: [189] closed
+May 02 21:44 : client: [190] opened from [::1]:38568
+May 02 21:44 : client: [190] closed
+May 02 21:44 : client: [191] opened from [::1]:38570
+May 02 21:44 : client: [191] closed
+May 02 21:44 : client: [192] opened from [::1]:38572
+May 02 21:44 : client: [192] closed
+May 02 21:44 : client: [193] opened from [::1]:38574
+May 02 21:44 : client: [193] closed
+May 02 21:44 : client: [194] opened from [::1]:38576
+May 02 21:44 : client: [194] closed
+May 02 21:44 : client: [195] opened from [::1]:38578
+May 02 21:44 : client: [195] closed
+May 02 21:44 : client: [196] opened from [::1]:38580
+May 02 21:44 : client: [196] closed
+May 02 21:44 : client: [197] opened from [::1]:38582
+May 02 21:44 : client: [197] closed
+May 02 21:44 : client: [198] opened from [::1]:38584
+May 02 21:44 : client: [198] closed
+May 02 21:44 : client: [199] opened from [::1]:38586
+May 02 21:44 : client: [199] closed
+May 02 21:44 : client: [200] opened from [::1]:38588
+May 02 21:44 : client: [200] closed
+May 02 21:44 : client: [201] opened from [::1]:38590
+May 02 21:44 : client: [201] closed
+May 02 21:44 : client: [202] opened from [::1]:38592
+May 02 21:44 : client: [202] closed
+May 02 21:44 : client: [203] opened from [::1]:38594
+May 02 21:44 : client: [203] closed
+May 02 21:44 : client: [204] opened from [::1]:38596
+May 02 21:44 : client: [204] closed
+May 02 21:44 : client: [205] opened from [::1]:38598
+May 02 21:44 : client: [205] closed
+May 02 21:44 : client: [206] opened from [::1]:38600
+May 02 21:44 : client: [206] closed
+May 02 21:44 : client: [207] opened from [::1]:38602
+May 02 21:44 : client: [207] closed
+May 02 21:44 : client: [208] opened from [::1]:38604
+May 02 21:44 : client: [208] closed
+May 02 21:44 : client: [209] opened from [::1]:38610
+May 02 21:44 : client: [209] closed
+May 02 21:44 : client: [210] opened from [::1]:38612
+May 02 21:44 : client: [210] closed
+May 02 21:44 : client: [211] opened from [::1]:38632
+May 02 21:44 : client: [211] closed
+May 02 21:44 : client: [212] opened from [::1]:38634
+May 02 21:44 : client: [212] closed
+May 02 21:44 : client: [213] opened from [::1]:38644
+May 02 21:44 : client: [213] closed
+May 02 21:44 : client: [214] opened from [::1]:38646
+May 02 21:44 : client: [214] closed
+May 02 21:44 : client: [215] opened from [::1]:38648
+May 02 21:44 : client: [215] closed
+May 02 21:44 : client: [216] opened from [::1]:38650
+May 02 21:44 : client: [216] closed
+May 02 21:44 : client: [217] opened from [::1]:38652
+May 02 21:44 : client: [217] closed
+May 02 21:44 : client: [218] opened from [::1]:38654
+May 02 21:44 : client: [218] closed
+May 02 21:44 : client: [219] opened from [::1]:38658
+May 02 21:44 : client: [219] closed
+May 02 21:44 : client: [220] opened from [::1]:38660
+May 02 21:44 : client: [220] closed
+May 02 21:44 : client: [221] opened from [::1]:38662
+May 02 21:44 : client: [222] opened from [::1]:38664
+May 02 21:44 : client: [222] closed
+May 02 21:44 : client: [221] closed
+May 02 21:44 : client: [223] opened from [::1]:38666
+May 02 21:44 : client: [223] closed
+May 02 21:44 : client: [224] opened from [::1]:38668
+May 02 21:44 : client: [224] closed
+May 02 21:44 : client: [225] opened from [::1]:38670
+May 02 21:44 : client: [225] closed
+May 02 21:44 : client: [226] opened from [::1]:38672
+May 02 21:44 : client: [226] closed
+May 02 21:44 : client: [227] opened from [::1]:38674
+May 02 21:44 : client: [227] closed
+May 02 21:44 : client: [228] opened from [::1]:38676
+May 02 21:44 : client: [228] closed
+May 02 21:44 : client: [229] opened from [::1]:38678
+May 02 21:44 : client: [229] closed
+May 02 21:44 : client: [230] opened from [::1]:38680
+May 02 21:44 : client: [230] closed
+May 02 21:44 : client: [231] opened from [::1]:38682
+May 02 21:44 : client: [231] closed
+May 02 21:44 : client: [232] opened from [::1]:38684
+May 02 21:44 : client: [232] closed
+May 02 21:44 : client: [233] opened from [::1]:38686
+May 02 21:44 : client: [233] closed
+May 02 21:44 : client: [234] opened from [::1]:38704
+May 02 21:44 : client: [234] closed
+May 02 21:44 : client: [235] opened from [::1]:38706
+May 02 21:44 : client: [235] closed
+May 02 21:44 : client: [236] opened from [::1]:38708
+May 02 21:44 : client: [236] closed
+May 02 21:44 : client: [237] opened from [::1]:38712
+May 02 21:44 : client: [237] closed
+May 02 21:44 : client: [238] opened from [::1]:38714
+May 02 21:44 : client: [238] closed
+May 02 21:44 : client: [239] opened from [::1]:38720
+May 02 21:44 : client: [239] closed
+May 02 21:44 : client: [240] opened from [::1]:38722
+May 02 21:44 : client: [240] closed
+May 02 21:45 : client: [241] opened from [::1]:38726
+May 02 21:45 : client: [241] closed
+May 02 21:45 : client: [242] opened from [::1]:38730
+May 02 21:45 : client: [242] closed
+May 02 21:45 : client: [243] opened from [::1]:38732
+May 02 21:45 : client: [243] closed
+May 02 21:45 : client: [244] opened from [::1]:38736
+May 02 21:45 : client: [244] closed
+May 02 21:45 : client: [245] opened from [::1]:38738
+May 02 21:45 : client: [245] closed
+May 02 21:45 : client: [246] opened from [::1]:38740
+May 02 21:45 : client: [246] closed
+May 02 21:45 : client: [247] opened from [::1]:38742
+May 02 21:45 : client: [247] closed
+May 02 21:45 : client: [248] opened from [::1]:38744
+May 02 21:45 : client: [248] closed
+May 02 21:45 : client: [249] opened from [::1]:38746
+May 02 21:45 : client: [249] closed
+May 02 21:45 : client: [250] opened from [::1]:38748
+May 02 21:45 : client: [250] closed
+May 02 21:45 : client: [251] opened from [::1]:38750
+May 02 21:45 : client: [251] closed
+May 02 21:45 : client: [252] opened from [::1]:38752
+May 02 21:45 : client: [252] closed
+May 02 21:45 : client: [253] opened from [::1]:38754
+May 02 21:45 : client: [253] closed
+May 02 21:45 : client: [254] opened from [::1]:38756
+May 02 21:45 : client: [254] closed
+May 02 21:45 : client: [255] opened from [::1]:38758
+May 02 21:45 : client: [255] closed
+May 02 21:45 : client: [256] opened from [::1]:38760
+May 02 21:45 : client: [256] closed
+May 02 21:45 : client: [257] opened from [::1]:38762
+May 02 21:45 : client: [257] closed
+May 02 21:45 : client: [258] opened from [::1]:38764
+May 02 21:45 : client: [258] closed
+May 02 21:45 : client: [259] opened from [::1]:38766
+May 02 21:45 : client: [259] closed
+May 02 21:45 : client: [260] opened from [::1]:38768
+May 02 21:45 : client: [260] closed
+May 02 21:45 : client: [261] opened from [::1]:38770
+May 02 21:45 : client: [261] closed
+May 02 21:45 : client: [262] opened from [::1]:38772
+May 02 21:45 : client: [262] closed
+May 02 21:45 : client: [263] opened from [::1]:38774
+May 02 21:45 : client: [263] closed
+May 02 21:45 : client: [264] opened from [::1]:38776
+May 02 21:45 : client: [264] closed
+May 02 21:45 : client: [265] opened from [::1]:38778
+May 02 21:45 : client: [265] closed
+May 02 21:45 : client: [266] opened from [::1]:38780
+May 02 21:45 : client: [266] closed
+May 02 21:45 : client: [267] opened from [::1]:38782
+May 02 21:45 : client: [267] closed
+May 02 21:45 : client: [268] opened from [::1]:38784
+May 02 21:45 : client: [268] closed
+May 02 21:45 : client: [269] opened from [::1]:38786
+May 02 21:45 : client: [269] closed
+May 02 21:45 : client: [270] opened from [::1]:38788
+May 02 21:45 : client: [270] closed
+May 02 21:45 : client: [271] opened from [::1]:38790
+May 02 21:45 : client: [271] closed
+May 02 21:45 : client: [272] opened from [::1]:38792
+May 02 21:45 : client: [272] closed
+May 02 21:45 : client: [273] opened from [::1]:38794
+May 02 21:45 : client: [273] closed
+May 02 21:45 : client: [274] opened from [::1]:38796
+May 02 21:45 : client: [274] closed
+May 02 21:45 : client: [275] opened from [::1]:38798
+May 02 21:45 : client: [275] closed
+May 02 21:45 : client: [276] opened from [::1]:38800
+May 02 21:45 : client: [276] closed
+May 02 21:45 : client: [277] opened from [::1]:38802
+May 02 21:45 : client: [277] closed
+May 02 21:45 : client: [278] opened from [::1]:38804
+May 02 21:45 : client: [278] closed
+May 02 21:45 : client: [279] opened from [::1]:38806
+May 02 21:45 : client: [279] closed
+May 02 21:45 : client: [280] opened from [::1]:38808
+May 02 21:45 : client: [280] closed
+May 02 21:45 : client: [281] opened from [::1]:38810
+May 02 21:45 : client: [281] closed
+May 02 21:45 : client: [282] opened from [::1]:38812
+May 02 21:45 : client: [282] closed
+May 02 21:45 : client: [283] opened from [::1]:38814
+May 02 21:45 : client: [283] closed
+May 02 21:45 : client: [284] opened from [::1]:38816
+May 02 21:45 : client: [284] closed
+May 02 21:45 : client: [285] opened from [::1]:38818
+May 02 21:45 : client: [285] closed
+May 02 21:45 : client: [286] opened from [::1]:38820
+May 02 21:45 : client: [286] closed
+May 02 21:45 : client: [287] opened from [::1]:38822
+May 02 21:45 : client: [287] closed
+May 02 21:45 : client: [288] opened from [::1]:38824
+May 02 21:45 : client: [288] closed
+May 02 21:45 : client: [289] opened from [::1]:38826
+May 02 21:45 : client: [289] closed
+May 02 21:45 : client: [290] opened from [::1]:38828
+May 02 21:45 : client: [290] closed
+May 02 21:45 : client: [291] opened from [::1]:38830
+May 02 21:45 : client: [291] closed
+May 02 21:45 : client: [292] opened from [::1]:38832
+May 02 21:45 : client: [292] closed
+May 02 21:45 : client: [293] opened from [::1]:38834
+May 02 21:45 : client: [293] closed
+May 02 21:45 : client: [294] opened from [::1]:38836
+May 02 21:45 : client: [294] closed
+May 02 21:45 : client: [295] opened from [::1]:38838
+May 02 21:45 : client: [295] closed
+May 02 21:45 : client: [296] opened from [::1]:38840
+May 02 21:45 : client: [296] closed
+May 02 21:45 : client: [297] opened from [::1]:38842
+May 02 21:45 : client: [297] closed
+May 02 21:45 : client: [298] opened from [::1]:38844
+May 02 21:45 : client: [298] closed
+May 02 21:45 : client: [299] opened from [::1]:38846
+May 02 21:45 : client: [299] closed
+May 02 21:45 : client: [300] opened from [::1]:38848
+May 02 21:45 : client: [300] closed
+May 02 21:45 : client: [301] opened from [::1]:38850
+May 02 21:45 : client: [301] closed
+May 02 21:45 : client: [302] opened from [::1]:38852
+May 02 21:45 : client: [302] closed
+May 02 21:45 : client: [303] opened from [::1]:38854
+May 02 21:45 : client: [303] closed
+May 02 21:45 : client: [304] opened from [::1]:38856
+May 02 21:45 : client: [304] closed
+May 02 21:45 : client: [305] opened from [::1]:38858
+May 02 21:45 : client: [305] closed
+May 02 21:45 : client: [306] opened from [::1]:38860
+May 02 21:45 : client: [306] closed
+May 02 21:45 : client: [307] opened from [::1]:38862
+May 02 21:45 : client: [307] closed
+May 02 21:45 : client: [308] opened from [::1]:38864
+May 02 21:45 : client: [308] closed
+May 02 21:45 : client: [309] opened from [::1]:38866
+May 02 21:45 : client: [309] closed
+May 02 21:45 : client: [310] opened from [::1]:38868
+May 02 21:45 : client: [310] closed
+May 02 21:46 : client: [311] opened from [::1]:38870
+May 02 21:46 : client: [311] closed
+May 02 21:46 : client: [312] opened from [::1]:38872
+May 02 21:46 : client: [312] closed
+May 02 21:46 : client: [313] opened from [::1]:38874
+May 02 21:46 : client: [313] closed
+May 02 21:46 : client: [314] opened from [::1]:38876
+May 02 21:46 : client: [314] closed
+May 02 21:46 : client: [315] opened from [::1]:38878
+May 02 21:46 : client: [315] closed
+May 02 21:46 : client: [316] opened from [::1]:38880
+May 02 21:46 : client: [316] closed
+May 02 21:46 : client: [317] opened from [::1]:38882
+May 02 21:46 : client: [317] closed
+May 02 21:46 : client: [318] opened from [::1]:38884
+May 02 21:46 : client: [318] closed
+May 02 21:46 : client: [319] opened from [::1]:38886
+May 02 21:46 : client: [319] closed
+May 02 21:46 : client: [320] opened from [::1]:38888
+May 02 21:46 : client: [320] closed
+May 02 21:46 : client: [321] opened from [::1]:38890
+May 02 21:46 : client: [321] closed
+May 02 21:46 : client: [322] opened from [::1]:38892
+May 02 21:46 : client: [322] closed
+May 02 21:46 : client: [323] opened from [::1]:38894
+May 02 21:46 : client: [323] closed
+May 02 21:46 : client: [324] opened from [::1]:38896
+May 02 21:46 : client: [324] closed
+May 02 21:46 : client: [325] opened from [::1]:38898
+May 02 21:46 : client: [325] closed
+May 02 21:46 : client: [326] opened from [::1]:38900
+May 02 21:46 : client: [326] closed
+May 02 21:46 : client: [327] opened from [::1]:38902
+May 02 21:46 : client: [327] closed
+May 02 21:46 : client: [328] opened from [::1]:38904
+May 02 21:46 : client: [328] closed
+May 02 21:46 : client: [329] opened from [::1]:38906
+May 02 21:46 : client: [329] closed
+May 02 21:46 : client: [330] opened from [::1]:38908
+May 02 21:46 : client: [330] closed
+May 02 21:46 : client: [331] opened from [::1]:38910
+May 02 21:46 : client: [331] closed
+May 02 21:46 : client: [332] opened from [::1]:38912
+May 02 21:46 : client: [332] closed
+May 02 21:46 : client: [333] opened from [::1]:38914
+May 02 21:46 : client: [333] closed
+May 02 21:46 : client: [334] opened from [::1]:38916
+May 02 21:46 : client: [334] closed
+May 02 21:46 : client: [335] opened from [::1]:38918
+May 02 21:46 : client: [335] closed
+May 02 21:46 : client: [336] opened from [::1]:38920
+May 02 21:46 : client: [336] closed
+May 02 21:46 : client: [337] opened from [::1]:38922
+May 02 21:46 : client: [337] closed
+May 02 21:46 : client: [338] opened from [::1]:38924
+May 02 21:46 : client: [338] closed
+May 02 21:46 : client: [339] opened from [::1]:38926
+May 02 21:46 : client: [339] closed
+May 02 21:46 : client: [340] opened from [::1]:38928
+May 02 21:46 : client: [340] closed
+May 02 21:46 : client: [341] opened from [::1]:38930
+May 02 21:46 : client: [341] closed
+May 02 21:46 : client: [342] opened from [::1]:38932
+May 02 21:46 : client: [342] closed
+May 02 21:46 : client: [343] opened from [::1]:38934
+May 02 21:46 : client: [343] closed
+May 02 21:46 : client: [344] opened from [::1]:38936
+May 02 21:46 : client: [344] closed
+May 02 21:46 : client: [345] opened from [::1]:38938
+May 02 21:46 : client: [345] closed
+May 02 21:46 : client: [346] opened from [::1]:38942
+May 02 21:46 : client: [346] closed
+May 02 21:46 : client: [347] opened from [::1]:38944
+May 02 21:46 : client: [347] closed
+May 02 21:46 : client: [348] opened from [::1]:38946
+May 02 21:46 : client: [348] closed
+May 02 21:46 : client: [349] opened from [::1]:38948
+May 02 21:46 : client: [349] closed
+May 02 21:46 : client: [350] opened from [::1]:38950
+May 02 21:46 : client: [350] closed
+May 02 21:46 : client: [351] opened from [::1]:38952
+May 02 21:46 : client: [351] closed
+May 02 21:46 : client: [352] opened from [::1]:38954
+May 02 21:46 : client: [352] closed
+May 02 21:46 : client: [353] opened from [::1]:38956
+May 02 21:46 : client: [353] closed
+May 02 21:46 : client: [354] opened from [::1]:38958
+May 02 21:46 : client: [354] closed
+May 02 21:46 : client: [355] opened from [::1]:38960
+May 02 21:46 : client: [355] closed
+May 02 21:46 : client: [356] opened from [::1]:38962
+May 02 21:46 : client: [356] closed
+May 02 21:46 : client: [357] opened from [::1]:38964
+May 02 21:46 : client: [357] closed
+May 02 21:46 : client: [358] opened from [::1]:38966
+May 02 21:46 : client: [358] closed
+May 02 21:46 : client: [359] opened from [::1]:38968
+May 02 21:46 : client: [359] closed
+May 02 21:46 : client: [360] opened from [::1]:38970
+May 02 21:46 : client: [360] closed
+May 02 21:46 : client: [361] opened from [::1]:38972
+May 02 21:46 : client: [361] closed
+May 02 21:46 : client: [362] opened from [::1]:38974
+May 02 21:46 : client: [362] closed
+May 02 21:46 : client: [363] opened from [::1]:38976
+May 02 21:46 : client: [363] closed
+May 02 21:46 : client: [364] opened from [::1]:38978
+May 02 21:46 : client: [364] closed
+May 02 21:46 : client: [365] opened from [::1]:38980
+May 02 21:46 : client: [365] closed
+May 02 21:46 : client: [366] opened from [::1]:38982
+May 02 21:46 : client: [366] closed
+May 02 21:46 : client: [367] opened from [::1]:38984
+May 02 21:46 : client: [367] closed
+May 02 21:46 : client: [368] opened from [::1]:38992
+May 02 21:46 : client: [368] closed
+May 02 21:46 : client: [369] opened from [::1]:38994
+May 02 21:46 : client: [369] closed
+May 02 21:46 : client: [370] opened from [::1]:39058
+May 02 21:46 : client: [370] closed
+May 02 21:46 : client: [371] opened from [::1]:39086
+May 02 21:46 : client: [371] closed
+May 02 21:46 : client: [372] opened from [::1]:39090
+May 02 21:46 : client: [372] closed
+May 02 21:46 : client: [373] opened from [::1]:39094
+May 02 21:46 : client: [373] closed
+May 02 21:46 : client: [374] opened from [::1]:39096
+May 02 21:46 : client: [374] closed
+May 02 21:46 : client: [375] opened from [::1]:39098
+May 02 21:46 : client: [375] closed
+May 02 21:46 : client: [376] opened from [::1]:39100
+May 02 21:46 : client: [376] closed
+May 02 21:46 : client: [377] opened from [::1]:39102
+May 02 21:46 : client: [377] closed
+May 02 21:46 : client: [378] opened from [::1]:39104
+May 02 21:46 : client: [378] closed
+May 02 21:46 : client: [379] opened from [::1]:39106
+May 02 21:46 : client: [379] closed
+May 02 21:47 : client: [380] opened from [::1]:39108
+May 02 21:47 : client: [380] closed
+May 02 21:47 : client: [381] opened from [::1]:39110
+May 02 21:47 : client: [381] closed
+May 02 21:47 : client: [382] opened from [::1]:39112
+May 02 21:47 : client: [382] closed
+May 02 21:47 : client: [383] opened from [::1]:39114
+May 02 21:47 : client: [383] closed
+May 02 21:47 : client: [384] opened from [::1]:39116
+May 02 21:47 : client: [384] closed
+May 02 21:47 : client: [385] opened from [::1]:39118
+May 02 21:47 : client: [385] closed
+May 02 21:47 : client: [386] opened from [::1]:39120
+May 02 21:47 : client: [386] closed
+May 02 21:47 : client: [387] opened from [::1]:39122
+May 02 21:47 : client: [387] closed
+May 02 21:47 : client: [388] opened from [::1]:39124
+May 02 21:47 : client: [388] closed
+May 02 21:47 : client: [389] opened from [::1]:39126
+May 02 21:47 : client: [389] closed
+May 02 21:47 : client: [390] opened from [::1]:39128
+May 02 21:47 : client: [390] closed
+May 02 21:47 : client: [391] opened from [::1]:39130
+May 02 21:47 : client: [391] closed
+May 02 21:47 : client: [392] opened from [::1]:39132
+May 02 21:47 : client: [392] closed
+May 02 21:47 : client: [393] opened from [::1]:39134
+May 02 21:47 : client: [393] closed
+May 02 21:47 : client: [394] opened from [::1]:39136
+May 02 21:47 : client: [394] closed
+May 02 21:47 : client: [395] opened from [::1]:39138
+May 02 21:47 : client: [395] closed
+May 02 21:47 : client: [396] opened from [::1]:39140
+May 02 21:47 : client: [396] closed
+May 02 21:47 : client: [397] opened from [::1]:39142
+May 02 21:47 : client: [397] closed
+May 02 21:47 : client: [398] opened from [::1]:39144
+May 02 21:47 : client: [398] closed
+May 02 21:47 : client: [399] opened from [::1]:39146
+May 02 21:47 : client: [399] closed
+May 02 21:47 : client: [400] opened from [::1]:39148
+May 02 21:47 : client: [400] closed
+May 02 21:47 : client: [401] opened from [::1]:39150
+May 02 21:47 : client: [401] closed
+May 02 21:47 : client: [402] opened from [::1]:39152
+May 02 21:47 : client: [402] closed
+May 02 21:47 : client: [403] opened from [::1]:39154
+May 02 21:47 : client: [403] closed
+May 02 21:47 : client: [404] opened from [::1]:39156
+May 02 21:47 : client: [404] closed
+May 02 21:47 : client: [405] opened from [::1]:39158
+May 02 21:47 : client: [405] closed
+May 02 21:47 : client: [406] opened from [::1]:39160
+May 02 21:47 : client: [406] closed
+May 02 21:47 : client: [407] opened from [::1]:39162
+May 02 21:47 : client: [407] closed
+May 02 21:47 : client: [408] opened from [::1]:39164
+May 02 21:47 : client: [408] closed
+May 02 21:47 : client: [409] opened from [::1]:39166
+May 02 21:47 : client: [409] closed
+May 02 21:47 : client: [410] opened from [::1]:39168
+May 02 21:47 : client: [410] closed
+May 02 21:47 : client: [411] opened from [::1]:39170
+May 02 21:47 : client: [411] closed
+May 02 21:47 : client: [412] opened from [::1]:39172
+May 02 21:47 : client: [412] closed
+May 02 21:47 : client: [413] opened from [::1]:39174
+May 02 21:47 : client: [413] closed
+May 02 21:47 : client: [414] opened from [::1]:39176
+May 02 21:47 : client: [414] closed
+May 02 21:47 : client: [415] opened from [::1]:39178
+May 02 21:47 : client: [415] closed
+May 02 21:47 : client: [416] opened from [::1]:39180
+May 02 21:47 : client: [416] closed
+May 02 21:47 : client: [417] opened from [::1]:39182
+May 02 21:47 : client: [417] closed
+May 02 21:47 : client: [418] opened from [::1]:39184
+May 02 21:47 : client: [418] closed
+May 02 21:47 : client: [419] opened from [::1]:39186
+May 02 21:47 : client: [419] closed
+May 02 21:47 : client: [420] opened from [::1]:39188
+May 02 21:47 : client: [420] closed
+May 02 21:47 : client: [421] opened from [::1]:39190
+May 02 21:47 : client: [421] closed
+May 02 21:47 : client: [422] opened from [::1]:39192
+May 02 21:47 : client: [422] closed
+May 02 21:47 : client: [423] opened from [::1]:39194
+May 02 21:47 : client: [423] closed
+May 02 21:47 : client: [424] opened from [::1]:39196
+May 02 21:47 : client: [424] closed
+May 02 21:47 : client: [425] opened from [::1]:39198
+May 02 21:47 : client: [425] closed
+May 02 21:47 : client: [426] opened from [::1]:39200
+May 02 21:47 : client: [426] closed
+May 02 21:47 : client: [427] opened from [::1]:39202
+May 02 21:47 : client: [427] closed
+May 02 21:47 : client: [428] opened from [::1]:39204
+May 02 21:47 : client: [428] closed
+May 02 21:47 : client: [429] opened from [::1]:39206
+May 02 21:47 : client: [429] closed
+May 02 21:47 : client: [430] opened from [::1]:39208
+May 02 21:47 : client: [430] closed
+May 02 21:47 : client: [431] opened from [::1]:39210
+May 02 21:47 : client: [431] closed
+May 02 21:47 : client: [432] opened from [::1]:39212
+May 02 21:47 : client: [432] closed
+May 02 21:47 : client: [433] opened from [::1]:39214
+May 02 21:47 : client: [433] closed
+May 02 21:47 : client: [434] opened from [::1]:39216
+May 02 21:47 : client: [434] closed
+May 02 21:47 : client: [435] opened from [::1]:39218
+May 02 21:47 : client: [435] closed
+May 02 21:47 : client: [436] opened from [::1]:39220
+May 02 21:47 : client: [436] closed
+May 02 21:47 : client: [437] opened from [::1]:39222
+May 02 21:47 : client: [437] closed
+May 02 21:47 : client: [438] opened from [::1]:39224
+May 02 21:47 : client: [438] closed
+May 02 21:47 : client: [439] opened from [::1]:39226
+May 02 21:47 : client: [439] closed
+May 02 21:47 : client: [440] opened from [::1]:39228
+May 02 21:47 : client: [440] closed
+May 02 21:47 : client: [441] opened from [::1]:39230
+May 02 21:47 : client: [441] closed
+May 02 21:47 : client: [442] opened from [::1]:39232
+May 02 21:47 : client: [442] closed
+May 02 21:47 : client: [443] opened from [::1]:39234
+May 02 21:47 : client: [443] closed
+May 02 21:47 : client: [444] opened from [::1]:39236
+May 02 21:47 : client: [444] closed
+May 02 21:47 : client: [445] opened from [::1]:39238
+May 02 21:47 : client: [445] closed
+May 02 21:47 : client: [446] opened from [::1]:39240
+May 02 21:47 : client: [446] closed
+May 02 21:47 : client: [447] opened from [::1]:39242
+May 02 21:47 : client: [447] closed
+May 02 21:47 : client: [448] opened from [::1]:39244
+May 02 21:47 : client: [448] closed
+May 02 21:47 : client: [449] opened from [::1]:39246
+May 02 21:47 : client: [449] closed
+May 02 21:48 : client: [450] opened from [::1]:39248
+May 02 21:48 : client: [450] closed
+May 02 21:48 : client: [451] opened from [::1]:39250
+May 02 21:48 : client: [451] closed
+May 02 21:48 : client: [452] opened from [::1]:39252
+May 02 21:48 : client: [452] closed
+May 02 21:48 : client: [453] opened from [::1]:39254
+May 02 21:48 : client: [453] closed
+May 02 21:48 : client: [454] opened from [::1]:39256
+May 02 21:48 : client: [454] closed
+May 02 21:48 : client: [455] opened from [::1]:39258
+May 02 21:48 : client: [455] closed
+May 02 21:48 : client: [456] opened from [::1]:39260
+May 02 21:48 : client: [456] closed
+May 02 21:48 : client: [457] opened from [::1]:39262
+May 02 21:48 : client: [457] closed
+May 02 21:48 : client: [458] opened from [::1]:39264
+May 02 21:48 : client: [458] closed
+May 02 21:48 : client: [459] opened from [::1]:39266
+May 02 21:48 : client: [459] closed
+May 02 21:48 : client: [460] opened from [::1]:39268
+May 02 21:48 : client: [460] closed
+May 02 21:48 : client: [461] opened from [::1]:39270
+May 02 21:48 : client: [461] closed
+May 02 21:48 : client: [462] opened from [::1]:39272
+May 02 21:48 : client: [462] closed
+May 02 21:48 : client: [463] opened from [::1]:39274
+May 02 21:48 : client: [463] closed
+May 02 21:48 : client: [464] opened from [::1]:39276
+May 02 21:48 : client: [464] closed
+May 02 21:48 : client: [465] opened from [::1]:39278
+May 02 21:48 : client: [465] closed
+May 02 21:48 : client: [466] opened from [::1]:39280
+May 02 21:48 : client: [466] closed
+May 02 21:48 : client: [467] opened from [::1]:39282
+May 02 21:48 : client: [467] closed
+May 02 21:48 : client: [468] opened from [::1]:39284
+May 02 21:48 : client: [468] closed
+May 02 21:48 : client: [469] opened from [::1]:39286
+May 02 21:48 : client: [469] closed
+May 02 21:48 : client: [470] opened from [::1]:39288
+May 02 21:48 : client: [470] closed
+May 02 21:48 : client: [471] opened from [::1]:39290
+May 02 21:48 : client: [471] closed
+May 02 21:48 : client: [472] opened from [::1]:39292
+May 02 21:48 : client: [472] closed
+May 02 21:48 : client: [473] opened from [::1]:39294
+May 02 21:48 : client: [473] closed
+May 02 21:48 : client: [474] opened from [::1]:39296
+May 02 21:48 : client: [474] closed
+May 02 21:48 : client: [475] opened from [::1]:39298
+May 02 21:48 : client: [475] closed
+May 02 21:48 : client: [476] opened from [::1]:39300
+May 02 21:48 : client: [476] closed
+May 02 21:48 : client: [477] opened from [::1]:39302
+May 02 21:48 : client: [477] closed
+May 02 21:48 : client: [478] opened from [::1]:39304
+May 02 21:48 : client: [478] closed
+May 02 21:48 : client: [479] opened from [::1]:39306
+May 02 21:48 : client: [479] closed
+May 02 21:48 : client: [480] opened from [::1]:39308
+May 02 21:48 : client: [480] closed
+May 02 21:48 : client: [481] opened from [::1]:39310
+May 02 21:48 : client: [481] closed
+May 02 21:48 : client: [482] opened from [::1]:39312
+May 02 21:48 : client: [482] closed
+May 02 21:48 : client: [483] opened from [::1]:39314
+May 02 21:48 : client: [483] closed
+May 02 21:48 : client: [484] opened from [::1]:39316
+May 02 21:48 : client: [484] closed
+May 02 21:48 : client: [485] opened from [::1]:39318
+May 02 21:48 : client: [485] closed
+May 02 21:48 : client: [486] opened from [::1]:39320
+May 02 21:48 : client: [486] closed
+May 02 21:48 : client: [487] opened from [::1]:39322
+May 02 21:48 : client: [487] closed
+May 02 21:48 : client: [488] opened from [::1]:39324
+May 02 21:48 : client: [488] closed
+May 02 21:48 : client: [489] opened from [::1]:39326
+May 02 21:48 : client: [489] closed
+May 02 21:48 : client: [490] opened from [::1]:39328
+May 02 21:48 : client: [490] closed
+May 02 21:48 : client: [491] opened from [::1]:39330
+May 02 21:48 : client: [491] closed
+May 02 21:48 : client: [492] opened from [::1]:39332
+May 02 21:48 : client: [492] closed
+May 02 21:48 : client: [493] opened from [::1]:39334
+May 02 21:48 : client: [493] closed
+May 02 21:48 : client: [494] opened from [::1]:39336
+May 02 21:48 : client: [494] closed
+May 02 21:48 : client: [495] opened from [::1]:39338
+May 02 21:48 : client: [495] closed
+May 02 21:48 : client: [496] opened from [::1]:39340
+May 02 21:48 : client: [496] closed
+May 02 21:48 : client: [497] opened from [::1]:39342
+May 02 21:48 : client: [497] closed
+May 02 21:48 : client: [498] opened from [::1]:39344
+May 02 21:48 : client: [498] closed
+May 02 21:48 : client: [499] opened from [::1]:39346
+May 02 21:48 : client: [499] closed
+May 02 21:48 : client: [500] opened from [::1]:39348
+May 02 21:48 : client: [500] closed
+May 02 21:48 : client: [501] opened from [::1]:39350
+May 02 21:48 : client: [501] closed
+May 02 21:48 : client: [502] opened from [::1]:39352
+May 02 21:48 : client: [502] closed
+May 02 21:48 : client: [503] opened from [::1]:39354
+May 02 21:48 : client: [503] closed
+May 02 21:48 : client: [504] opened from [::1]:39356
+May 02 21:48 : client: [504] closed
+May 02 21:48 : client: [505] opened from [::1]:39358
+May 02 21:48 : client: [505] closed
+May 02 21:48 : client: [506] opened from [::1]:39360
+May 02 21:48 : client: [506] closed
+May 02 21:48 : client: [507] opened from [::1]:39362
+May 02 21:48 : client: [507] closed
+May 02 21:48 : client: [508] opened from [::1]:39364
+May 02 21:48 : client: [508] closed
+May 02 21:48 : client: [509] opened from [::1]:39366
+May 02 21:48 : client: [509] closed
+May 02 21:48 : client: [510] opened from [::1]:39368
+May 02 21:48 : client: [510] closed
+May 02 21:48 : client: [511] opened from [::1]:39370
+May 02 21:48 : client: [511] closed
+May 02 21:48 : client: [512] opened from [::1]:39372
+May 02 21:48 : client: [512] closed
+May 02 21:48 : client: [513] opened from [::1]:39374
+May 02 21:48 : client: [513] closed
+May 02 21:48 : client: [514] opened from [::1]:39376
+May 02 21:48 : client: [514] closed
+May 02 21:48 : client: [515] opened from [::1]:39378
+May 02 21:48 : client: [515] closed
+May 02 21:48 : client: [4] closed
+May 02 21:48 : client: [516] opened from [::1]:39380
+May 02 21:48 : client: [516] closed
+May 02 21:48 : client: [517] opened from [::1]:39382
+May 02 21:48 : client: [518] opened from [::1]:39384
+May 02 21:48 : client: [518] closed
+May 02 21:48 : client: [517] closed
+May 02 21:48 : client: [519] opened from [::1]:39386
+May 02 21:48 : client: [519] closed
+May 02 21:48 : client: [520] opened from [::1]:39388
+May 02 21:48 : client: [520] closed
+May 02 21:49 : client: [521] opened from [::1]:39390
+May 02 21:49 : client: [522] opened from [::1]:39392
+May 02 21:49 : client: [522] closed
+May 02 21:49 : client: [523] opened from [::1]:39394
+May 02 21:49 : client: [523] closed
+May 02 21:49 : client: [524] opened from [::1]:39396
+May 02 21:49 : client: [524] closed
+May 02 21:49 : client: [525] opened from [::1]:39398
+May 02 21:49 : client: [525] closed
+May 02 21:49 : client: [526] opened from [::1]:39400
+May 02 21:49 : client: [526] closed
+May 02 21:49 : client: [527] opened from [::1]:39402
+May 02 21:49 : client: [527] closed
+May 02 21:49 : client: [528] opened from [::1]:39404
+May 02 21:49 : client: [528] closed
+May 02 21:49 : client: [529] opened from [::1]:39406
+May 02 21:49 : client: [529] closed
+May 02 21:49 : client: [530] opened from [::1]:39408
+May 02 21:49 : client: [530] closed
+May 02 21:49 : client: [531] opened from [::1]:39410
+May 02 21:49 : client: [531] closed
+May 02 21:49 : client: [532] opened from [::1]:39412
+May 02 21:49 : client: [532] closed
+May 02 21:49 : client: [533] opened from [::1]:39414
+May 02 21:49 : client: [533] closed
+May 02 21:49 : client: [534] opened from [::1]:39416
+May 02 21:49 : client: [534] closed
+May 02 21:49 : client: [535] opened from [::1]:39418
+May 02 21:49 : client: [535] closed
+May 02 21:49 : client: [536] opened from [::1]:39420
+May 02 21:49 : client: [536] closed
+May 02 21:49 : client: [537] opened from [::1]:39422
+May 02 21:49 : client: [537] closed
+May 02 21:49 : client: [538] opened from [::1]:39424
+May 02 21:49 : client: [538] closed
+May 02 21:49 : client: [539] opened from [::1]:39426
+May 02 21:49 : client: [539] closed
+May 02 21:49 : client: [540] opened from [::1]:39428
+May 02 21:49 : client: [540] closed
+May 02 21:49 : client: [541] opened from [::1]:39430
+May 02 21:49 : client: [541] closed
+May 02 21:49 : client: [542] opened from [::1]:39432
+May 02 21:49 : client: [542] closed
+May 02 21:49 : client: [543] opened from [::1]:39434
+May 02 21:49 : client: [543] closed
+May 02 21:49 : client: [544] opened from [::1]:39436
+May 02 21:49 : client: [544] closed
+May 02 21:49 : client: [545] opened from [::1]:39438
+May 02 21:49 : client: [545] closed
+May 02 21:49 : client: [546] opened from [::1]:39440
+May 02 21:49 : client: [546] closed
+May 02 21:49 : client: [547] opened from [::1]:39442
+May 02 21:49 : client: [547] closed
+May 02 21:49 : client: [548] opened from [::1]:39444
+May 02 21:49 : client: [548] closed
+May 02 21:49 : client: [549] opened from [::1]:39446
+May 02 21:49 : client: [549] closed
+May 02 21:49 : client: [550] opened from [::1]:39448
+May 02 21:49 : client: [550] closed
+May 02 21:49 : client: [551] opened from [::1]:39450
+May 02 21:49 : client: [551] closed
+May 02 21:49 : client: [552] opened from [::1]:39452
+May 02 21:49 : client: [552] closed
+May 02 21:49 : client: [553] opened from [::1]:39454
+May 02 21:49 : client: [553] closed
+May 02 21:49 : client: [554] opened from [::1]:39456
+May 02 21:49 : client: [554] closed
+May 02 21:49 : client: [555] opened from [::1]:39458
+May 02 21:49 : client: [555] closed
+May 02 21:49 : client: [556] opened from [::1]:39460
+May 02 21:49 : client: [556] closed
+May 02 21:49 : client: [557] opened from [::1]:39462
+May 02 21:49 : client: [557] closed
+May 02 21:49 : client: [558] opened from [::1]:39464
+May 02 21:49 : client: [558] closed
+May 02 21:49 : client: [559] opened from [::1]:39466
+May 02 21:49 : client: [559] closed
+May 02 21:49 : client: [560] opened from [::1]:39468
+May 02 21:49 : client: [560] closed
+May 02 21:49 : client: [561] opened from [::1]:39470
+May 02 21:49 : client: [561] closed
+May 02 21:49 : client: [562] opened from [::1]:39472
+May 02 21:49 : client: [562] closed
+May 02 21:49 : client: [563] opened from [::1]:39474
+May 02 21:49 : client: [563] closed
+May 02 21:49 : client: [564] opened from [::1]:39476
+May 02 21:49 : client: [564] closed
+May 02 21:49 : client: [565] opened from [::1]:39478
+May 02 21:49 : client: [565] closed
+May 02 21:49 : client: [566] opened from [::1]:39480
+May 02 21:49 : client: [566] closed
+May 02 21:49 : client: [567] opened from [::1]:39482
+May 02 21:49 : client: [567] closed
+May 02 21:49 : client: [568] opened from [::1]:39484
+May 02 21:49 : client: [568] closed
+May 02 21:49 : client: [569] opened from [::1]:39486
+May 02 21:49 : client: [569] closed
+May 02 21:49 : client: [570] opened from [::1]:39488
+May 02 21:49 : client: [570] closed
+May 02 21:49 : client: [571] opened from [::1]:39490
+May 02 21:49 : client: [571] closed
+May 02 21:49 : client: [572] opened from [::1]:39492
+May 02 21:49 : client: [572] closed
+May 02 21:49 : client: [573] opened from [::1]:39494
+May 02 21:49 : client: [573] closed
+May 02 21:49 : client: [574] opened from [::1]:39496
+May 02 21:49 : client: [574] closed
+May 02 21:49 : client: [575] opened from [::1]:39498
+May 02 21:49 : client: [575] closed
+May 02 21:49 : client: [576] opened from [::1]:39500
+May 02 21:49 : client: [576] closed
+May 02 21:49 : client: [521] closed
+May 02 21:49 : client: [577] opened from [::1]:39502
+May 02 21:49 : client: [577] closed
+May 02 21:49 : client: [578] opened from [::1]:39504
+May 02 21:49 : client: [578] closed
+May 02 21:49 : client: [579] opened from [::1]:39506
+May 02 21:49 : client: [579] closed
+May 02 21:49 : client: [580] opened from [::1]:39508
+May 02 21:49 : client: [580] closed
+May 02 21:49 : client: [581] opened from [::1]:39510
+May 02 21:49 : client: [581] closed
+May 02 21:49 : client: [582] opened from [::1]:39512
+May 02 21:49 : client: [582] closed
+May 02 21:49 : client: [583] opened from [::1]:39514
+May 02 21:49 : client: [583] closed
+May 02 21:49 : client: [584] opened from [::1]:39516
+May 02 21:49 : client: [584] closed
+May 02 21:49 : client: [585] opened from [::1]:39518
+May 02 21:49 : client: [585] closed
+May 02 21:49 : client: [586] opened from [::1]:39520
+May 02 21:49 : client: [586] closed
+May 02 21:49 : client: [587] opened from [::1]:39522
+May 02 21:49 : client: [587] closed
+May 02 21:49 : client: [588] opened from [::1]:39524
+May 02 21:49 : client: [588] closed
+May 02 21:49 : client: [589] opened from [::1]:39526
+May 02 21:49 : client: [589] closed
+May 02 21:49 : client: [590] opened from [::1]:39528
+May 02 21:49 : client: [590] closed
+May 02 21:49 : client: [591] opened from [::1]:39530
+May 02 21:49 : client: [591] closed
+May 02 21:50 : client: [592] opened from [::1]:39532
+May 02 21:50 : client: [592] closed
+May 02 21:50 : client: [593] opened from [::1]:39534
+May 02 21:50 : client: [593] closed
+May 02 21:50 : client: [594] opened from [::1]:39536
+May 02 21:50 : client: [594] closed
+May 02 21:50 : client: [595] opened from [::1]:39538
+May 02 21:50 : client: [595] closed
+May 02 21:50 : client: [596] opened from [::1]:39540
+May 02 21:50 : client: [596] closed
+May 02 21:50 : client: [597] opened from [::1]:39542
+May 02 21:50 : client: [597] closed
+May 02 21:50 : client: [598] opened from [::1]:39544
+May 02 21:50 : client: [598] closed
+May 02 21:50 : client: [599] opened from [::1]:39546
+May 02 21:50 : client: [599] closed
+May 02 21:50 : client: [600] opened from [::1]:39548
+May 02 21:50 : client: [600] closed
+May 02 21:50 : client: [601] opened from [::1]:39550
+May 02 21:50 : client: [601] closed
+May 02 21:50 : client: [602] opened from [::1]:39552
+May 02 21:50 : client: [602] closed
+May 02 21:50 : client: [603] opened from [::1]:39554
+May 02 21:50 : client: [603] closed
+May 02 21:50 : client: [604] opened from [::1]:39556
+May 02 21:50 : client: [604] closed
+May 02 21:50 : client: [605] opened from [::1]:39558
+May 02 21:50 : client: [606] opened from [::1]:39560
+May 02 21:50 : client: [606] closed
+May 02 21:50 : client: [607] opened from [::1]:39562
+May 02 21:50 : client: [607] closed
+ALSA lib pcm_hw.c:1701:(_snd_pcm_hw_open) Invalid value for card
+May 02 21:50 : alsa_output: Failed to open "My ALSA" [alsa]: Failed to open ALSA device "default": No such device
+May 02 21:50 : client: [608] opened from [::1]:39564
+May 02 21:50 : client: [608] closed
+May 02 21:50 : client: [609] opened from [::1]:39566
+May 02 21:50 : client: [609] closed
+May 02 21:50 : client: [610] opened from [::1]:39568
+May 02 21:50 : client: [610] closed
+May 02 21:50 : client: [611] opened from [::1]:39570
+May 02 21:50 : client: [611] closed
+May 02 21:50 : client: [612] opened from [::1]:39572
+May 02 21:50 : client: [612] closed
+May 02 21:50 : client: [613] opened from [::1]:39574
+May 02 21:50 : client: [613] closed
+May 02 21:50 : client: [614] opened from [::1]:39576
+May 02 21:50 : client: [614] closed
+May 02 21:50 : client: [615] opened from [::1]:39578
+May 02 21:50 : client: [615] closed
+May 02 21:50 : client: [616] opened from [::1]:39580
+May 02 21:50 : client: [616] closed
+May 02 21:50 : client: [617] opened from [::1]:39582
+May 02 21:50 : client: [617] closed
+May 02 21:50 : client: [618] opened from [::1]:39584
+May 02 21:50 : client: [618] closed
+ALSA lib pcm_hw.c:1701:(_snd_pcm_hw_open) Invalid value for card
+May 02 21:50 : alsa_output: Failed to open "My ALSA" [alsa]: Failed to open ALSA device "default": No such device
+May 02 21:50 : client: [619] opened from [::1]:39586
+May 02 21:50 : client: [619] closed
+May 02 21:50 : client: [620] opened from [::1]:39588
+May 02 21:50 : client: [620] closed
+May 02 21:50 : client: [621] opened from [::1]:39590
+May 02 21:50 : client: [621] closed
+May 02 21:50 : client: [622] opened from [::1]:39592
+May 02 21:50 : client: [622] closed
+May 02 21:50 : client: [623] opened from [::1]:39594
+May 02 21:50 : client: [623] closed
+May 02 21:50 : client: [624] opened from [::1]:39596
+May 02 21:50 : client: [624] closed
+May 02 21:50 : client: [625] opened from [::1]:39598
+May 02 21:50 : client: [625] closed
+May 02 21:50 : client: [626] opened from [::1]:39600
+May 02 21:50 : client: [626] closed
+May 02 21:50 : client: [627] opened from [::1]:39602
+May 02 21:50 : client: [627] closed
+May 02 21:50 : client: [628] opened from [::1]:39604
+May 02 21:50 : client: [628] closed
+May 02 21:50 : client: [629] opened from [::1]:39606
+May 02 21:50 : client: [629] closed
+May 02 21:50 : client: [630] opened from [::1]:39608
+May 02 21:50 : client: [630] closed
+ALSA lib pcm_hw.c:1701:(_snd_pcm_hw_open) Invalid value for card
+May 02 21:50 : alsa_output: Failed to open "My ALSA" [alsa]: Failed to open ALSA device "default": No such device
+May 02 21:50 : client: [631] opened from [::1]:39610
+May 02 21:50 : client: [631] closed
+May 02 21:50 : client: [632] opened from [::1]:39612
+May 02 21:50 : client: [632] closed
+May 02 21:50 : client: [633] opened from [::1]:39614
+May 02 21:50 : client: [633] closed
+May 02 21:50 : client: [634] opened from [::1]:39616
+May 02 21:50 : client: [634] closed
+May 02 21:50 : client: [635] opened from [::1]:39618
+May 02 21:50 : client: [635] closed
+May 02 21:50 : client: [636] opened from [::1]:39620
+May 02 21:50 : client: [636] closed
+May 02 21:50 : client: [637] opened from [::1]:39622
+May 02 21:50 : client: [637] closed
+May 02 21:50 : client: [638] opened from [::1]:39624
+May 02 21:50 : client: [638] closed
+May 02 21:50 : client: [639] opened from [::1]:39626
+May 02 21:50 : client: [639] closed
+May 02 21:50 : client: [640] opened from [::1]:39628
+May 02 21:50 : client: [640] closed
+May 02 21:50 : client: [641] opened from [::1]:39630
+May 02 21:50 : client: [641] closed
+ALSA lib pcm_hw.c:1701:(_snd_pcm_hw_open) Invalid value for card
+May 02 21:50 : alsa_output: Failed to open "My ALSA" [alsa]: Failed to open ALSA device "default": No such device
+May 02 21:50 : client: [642] opened from [::1]:39632
+May 02 21:50 : client: [642] closed
+May 02 21:50 : client: [643] opened from [::1]:39634
+May 02 21:50 : client: [643] closed
+May 02 21:50 : client: [644] opened from [::1]:39636
+May 02 21:50 : client: [644] closed
+May 02 21:50 : client: [645] opened from [::1]:39638
+May 02 21:50 : client: [645] closed
+May 02 21:50 : client: [646] opened from [::1]:39640
+May 02 21:50 : client: [646] closed
+May 02 21:50 : client: [647] opened from [::1]:39642
+May 02 21:50 : client: [647] closed
+May 02 21:50 : client: [648] opened from [::1]:39644
+May 02 21:50 : client: [648] closed
+May 02 21:50 : client: [649] opened from [::1]:39646
+May 02 21:50 : client: [649] closed
+May 02 21:50 : client: [650] opened from [::1]:39648
+May 02 21:50 : client: [650] closed
+May 02 21:50 : client: [651] opened from [::1]:39650
+May 02 21:50 : client: [651] closed
+May 02 21:50 : client: [652] opened from [::1]:39652
+May 02 21:50 : client: [652] closed
+May 02 21:50 : client: [653] opened from [::1]:39654
+May 02 21:50 : client: [653] closed
+May 02 21:50 : client: [654] opened from [::1]:39656
+May 02 21:50 : client: [654] closed
+May 02 21:50 : client: [655] opened from [::1]:39658
+May 02 21:50 : client: [655] closed
+May 02 21:50 : client: [656] opened from [::1]:39660
+May 02 21:50 : client: [656] closed
+May 02 21:50 : client: [657] opened from [::1]:39662
+May 02 21:50 : client: [657] closed
+May 02 21:50 : client: [658] opened from [::1]:39664
+May 02 21:50 : client: [658] closed
+May 02 21:50 : client: [659] opened from [::1]:39666
+May 02 21:50 : client: [659] closed
+May 02 21:50 : client: [660] opened from [::1]:39668
+May 02 21:50 : client: [660] closed
+May 02 21:51 : client: [661] opened from [::1]:39670
+May 02 21:51 : client: [661] closed
+May 02 21:51 : client: [662] opened from [::1]:39672
+May 02 21:51 : client: [662] closed
+May 02 21:51 : client: [663] opened from [::1]:39674
+May 02 21:51 : client: [663] closed
+May 02 21:51 : client: [664] opened from [::1]:39676
+May 02 21:51 : client: [664] closed
+May 02 21:51 : client: [665] opened from [::1]:39678
+May 02 21:51 : client: [665] closed
+May 02 21:51 : client: [666] opened from [::1]:39680
+May 02 21:51 : client: [666] closed
+May 02 21:51 : client: [667] opened from [::1]:39682
+May 02 21:51 : client: [667] closed
+May 02 21:51 : client: [668] opened from [::1]:39684
+May 02 21:51 : client: [668] closed
+May 02 21:51 : client: [669] opened from [::1]:39686
+May 02 21:51 : client: [669] closed
+May 02 21:51 : client: [670] opened from [::1]:39688
+May 02 21:51 : client: [670] closed
+May 02 21:51 : client: [671] opened from [::1]:39690
+May 02 21:51 : client: [671] closed
+May 02 21:51 : client: [672] opened from [::1]:39692
+May 02 21:51 : client: [672] closed
+May 02 21:51 : client: [673] opened from [::1]:39694
+May 02 21:51 : client: [673] closed
+May 02 21:51 : client: [674] opened from [::1]:39696
+May 02 21:51 : client: [674] closed
+May 02 21:51 : client: [675] opened from [::1]:39698
+May 02 21:51 : client: [675] closed
+May 02 21:51 : client: [676] opened from [::1]:39700
+May 02 21:51 : client: [676] closed
+May 02 21:51 : client: [677] opened from [::1]:39702
+May 02 21:51 : client: [677] closed
+May 02 21:51 : client: [678] opened from [::1]:39704
+May 02 21:51 : client: [678] closed
+May 02 21:51 : client: [679] opened from [::1]:39706
+May 02 21:51 : client: [679] closed
+May 02 21:51 : client: [680] opened from [::1]:39708
+May 02 21:51 : client: [680] closed
+May 02 21:51 : client: [681] opened from [::1]:39710
+May 02 21:51 : client: [681] closed
+May 02 21:51 : client: [682] opened from [::1]:39712
+May 02 21:51 : client: [682] closed
+May 02 21:51 : client: [683] opened from [::1]:39714
+May 02 21:51 : client: [683] closed
+May 02 21:51 : client: [684] opened from [::1]:39716
+May 02 21:51 : client: [684] closed
+May 02 21:51 : client: [685] opened from [::1]:39718
+May 02 21:51 : client: [685] closed
+May 02 21:51 : client: [686] opened from [::1]:39722
+May 02 21:51 : client: [686] closed
+May 02 21:51 : client: [687] opened from [::1]:39724
+May 02 21:51 : client: [687] closed
+May 02 21:51 : client: [688] opened from [::1]:39726
+May 02 21:51 : client: [688] closed
+May 02 21:51 : client: [689] opened from [::1]:39728
+May 02 21:51 : client: [689] closed
+May 02 21:51 : client: [690] opened from [::1]:39730
+May 02 21:51 : client: [690] closed
+May 02 21:51 : client: [691] opened from [::1]:39732
+May 02 21:51 : client: [691] closed
+May 02 21:51 : client: [692] opened from [::1]:39734
+May 02 21:51 : client: [692] closed
+May 02 21:51 : client: [693] opened from [::1]:39736
+May 02 21:51 : client: [693] closed
+May 02 21:51 : client: [694] opened from [::1]:39738
+May 02 21:51 : client: [694] closed
+May 02 21:51 : client: [695] opened from [::1]:39740
+May 02 21:51 : client: [695] closed
+May 02 21:51 : client: [696] opened from [::1]:39742
+May 02 21:51 : client: [696] closed
+May 02 21:51 : client: [697] opened from [::1]:39744
+May 02 21:51 : client: [697] closed
+May 02 21:51 : client: [698] opened from [::1]:39746
+May 02 21:51 : client: [698] closed
+May 02 21:51 : client: [699] opened from [::1]:39748
+May 02 21:51 : client: [699] closed
+May 02 21:51 : client: [700] opened from [::1]:39750
+May 02 21:51 : client: [700] closed
+May 02 21:51 : client: [701] opened from [::1]:39752
+May 02 21:51 : client: [701] closed
+May 02 21:51 : client: [702] opened from [::1]:39754
+May 02 21:51 : client: [702] closed
+May 02 21:51 : client: [703] opened from [::1]:39756
+May 02 21:51 : client: [703] closed
+May 02 21:51 : client: [704] opened from [::1]:39758
+May 02 21:51 : client: [704] closed
+May 02 21:51 : client: [705] opened from [::1]:39760
+May 02 21:51 : client: [705] closed
+May 02 21:51 : client: [706] opened from [::1]:39762
+May 02 21:51 : client: [706] closed
+May 02 21:51 : client: [707] opened from [::1]:39764
+May 02 21:51 : client: [707] closed
+May 02 21:51 : client: [708] opened from [::1]:39766
+May 02 21:51 : client: [708] closed
+May 02 21:51 : client: [709] opened from [::1]:39768
+May 02 21:51 : client: [709] closed
+May 02 21:51 : client: [710] opened from [::1]:39770
+May 02 21:51 : client: [710] closed
+May 02 21:51 : client: [711] opened from [::1]:39772
+May 02 21:51 : client: [711] closed
+May 02 21:51 : client: [712] opened from [::1]:39774
+May 02 21:51 : client: [712] closed
+May 02 21:51 : client: [713] opened from [::1]:39776
+May 02 21:51 : client: [713] closed
+May 02 21:51 : client: [714] opened from [::1]:39778
+May 02 21:51 : client: [714] closed
+May 02 21:51 : client: [715] opened from [::1]:39780
+May 02 21:51 : client: [715] closed
+May 02 21:51 : client: [716] opened from [::1]:39782
+May 02 21:51 : client: [716] closed
+May 02 21:51 : client: [717] opened from [::1]:39784
+May 02 21:51 : client: [717] closed
+May 02 21:51 : client: [718] opened from [::1]:39786
+May 02 21:51 : client: [718] closed
+May 02 21:51 : client: [719] opened from [::1]:39788
+May 02 21:51 : client: [719] closed
+May 02 21:51 : client: [720] opened from [::1]:39790
+May 02 21:51 : client: [720] closed
+May 02 21:51 : client: [721] opened from [::1]:39792
+May 02 21:51 : client: [721] closed
+May 02 21:51 : client: [722] opened from [::1]:39794
+May 02 21:51 : client: [722] closed
+May 02 21:51 : client: [723] opened from [::1]:39796
+May 02 21:51 : client: [723] closed
+May 02 21:51 : client: [724] opened from [::1]:39798
+May 02 21:51 : client: [724] closed
+May 02 21:51 : client: [725] opened from [::1]:39800
+May 02 21:51 : client: [725] closed
+May 02 21:51 : client: [726] opened from [::1]:39802
+May 02 21:51 : client: [726] closed
+May 02 21:51 : client: [727] opened from [::1]:39804
+May 02 21:51 : client: [727] closed
+May 02 21:51 : client: [728] opened from [::1]:39806
+May 02 21:51 : client: [728] closed
+May 02 21:52 : client: [729] opened from [::1]:39808
+May 02 21:52 : client: [729] closed
+May 02 21:52 : client: [730] opened from [::1]:39810
+May 02 21:52 : client: [730] closed
+May 02 21:52 : client: [731] opened from [::1]:39812
+May 02 21:52 : client: [731] closed
+May 02 21:52 : client: [732] opened from [::1]:39814
+May 02 21:52 : client: [732] closed
+May 02 21:52 : client: [733] opened from [::1]:39816
+May 02 21:52 : client: [733] closed
+May 02 21:52 : client: [734] opened from [::1]:39818
+May 02 21:52 : client: [734] closed
+May 02 21:52 : client: [735] opened from [::1]:39820
+May 02 21:52 : client: [735] closed
+May 02 21:52 : client: [736] opened from [::1]:39822
+May 02 21:52 : client: [736] closed
+May 02 21:52 : client: [737] opened from [::1]:39824
+May 02 21:52 : client: [737] closed
+May 02 21:52 : client: [738] opened from [::1]:39826
+May 02 21:52 : client: [738] closed
+May 02 21:52 : client: [739] opened from [::1]:39828
+May 02 21:52 : client: [739] closed
+May 02 21:52 : client: [740] opened from [::1]:39830
+May 02 21:52 : client: [740] closed
+May 02 21:52 : client: [741] opened from [::1]:39832
+May 02 21:52 : client: [741] closed
+May 02 21:52 : client: [742] opened from [::1]:39834
+May 02 21:52 : client: [742] closed
+May 02 21:52 : client: [743] opened from [::1]:39836
+May 02 21:52 : client: [743] closed
+May 02 21:52 : client: [744] opened from [::1]:39838
+May 02 21:52 : client: [744] closed
+May 02 21:52 : client: [745] opened from [::1]:39840
+May 02 21:52 : client: [745] closed
+May 02 21:52 : client: [746] opened from [::1]:39842
+May 02 21:52 : client: [746] closed
+May 02 21:52 : client: [747] opened from [::1]:39844
+May 02 21:52 : client: [747] closed
+May 02 21:52 : client: [748] opened from [::1]:39846
+May 02 21:52 : client: [748] closed
+May 02 21:52 : client: [749] opened from [::1]:39848
+May 02 21:52 : client: [749] closed
+May 02 21:52 : client: [750] opened from [::1]:39850
+May 02 21:52 : client: [750] closed
+May 02 21:52 : client: [751] opened from [::1]:39852
+May 02 21:52 : client: [751] closed
+May 02 21:52 : client: [752] opened from [::1]:39854
+May 02 21:52 : client: [752] closed
+May 02 21:52 : client: [753] opened from [::1]:39856
+May 02 21:52 : client: [753] closed
+May 02 21:52 : client: [754] opened from [::1]:39858
+May 02 21:52 : client: [754] closed
+May 02 21:52 : client: [755] opened from [::1]:39860
+May 02 21:52 : client: [755] closed
+May 02 21:52 : client: [756] opened from [::1]:39862
+May 02 21:52 : client: [756] closed
