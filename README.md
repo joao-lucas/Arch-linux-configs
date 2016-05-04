@@ -19,7 +19,8 @@
 ![2] (./screenshots/img2.png)
 
 ####lemonbar, termite, tmux, ranger, ncmpcpp, mpdviz, pacmixer
-![3] (./screenshoots/img6.png) 
+![3] (./screenshots/img6.png)
+
 ####i3blocks, termite, zsh, alsamixer, ncmpcpp, 3spooky.lua, tmux powerline e nmon 
 ![4] (./screenshots/img3.png)
 
