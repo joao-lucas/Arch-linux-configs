@@ -13,21 +13,23 @@
 
 ####i3blocks, xfce4-terminal, zsh e tmux powerline 
 ![1] (./screenshots/img1.png)
-
+~
 
 ####lemonbar, termite, zsh, tmux powerline, ncmpcpp, nmon, vim, pipes e palettes 
 ![2] (./screenshots/img2.png)
+~
 
 ####lemonbar, termite, tmux, ranger, ncmpcpp, mpdviz, pacmixer
 ![3] (./screenshots/img6.png)
+~
 
 ####i3blocks, termite, zsh, alsamixer, ncmpcpp, 3spooky.lua, tmux powerline e nmon 
 ![4] (./screenshots/img3.png)
-
+~
 
 ####i3blocks, termite, zsh, ncmpcpp, tmux powerline, cava, screenfetch e lolcat
 ![5] (./screenshots/img5.png)
-
+~
 
 ## Autor
 João Lucas <<joaolucas@linuxmail.org>>
