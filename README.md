@@ -18,7 +18,8 @@
 ####lemonbar, termite, zsh, tmux powerline, ncmpcpp, nmon, vim, pipes e palettes 
 ![alt tag] (./img2.png)
 
-
+####lemonbar, termite, tmux, ranger, ncmpcpp, mpdviz, pacmixer
+![alt tag] (./img6.png) 
 ####i3blocks, termite, zsh, alsamixer, ncmpcpp, 3spooky.lua, tmux powerline e nmon 
 ![alt tag] (./img3.png)
 
