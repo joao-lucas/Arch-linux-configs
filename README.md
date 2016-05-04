@@ -12,20 +12,20 @@
 ## ScreenShots	
 
 ####i3blocks, xfce4-terminal, zsh e tmux powerline 
-![alt tag] (./img1.png)
+![1] (./screenshots/img1.png)
 
 
 ####lemonbar, termite, zsh, tmux powerline, ncmpcpp, nmon, vim, pipes e palettes 
-![alt tag] (./img2.png)
+![2] (./screenshots/img2.png)
 
 ####lemonbar, termite, tmux, ranger, ncmpcpp, mpdviz, pacmixer
-![alt tag] (./img6.png) 
+![3] (./screenshoots/img6.png) 
 ####i3blocks, termite, zsh, alsamixer, ncmpcpp, 3spooky.lua, tmux powerline e nmon 
-![alt tag] (./img3.png)
+![4] (./screenshots/img3.png)
 
 
 ####i3blocks, termite, zsh, ncmpcpp, tmux powerline, cava, screenfetch e lolcat
-![alt tag] (./img5.png)
+![5] (./screenshots/img5.png)
 
 
 ## Autor
