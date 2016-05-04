@@ -9,7 +9,7 @@
 * Player de musica: mpd+ncmpcpp
 * Bar: lemonbar, i3blocks e i3status
 
-## ScreenShots	
+## Screenshots	
 
 ####i3blocks, xfce4-terminal, zsh e tmux powerline 
 ![1] (./screenshots/img1.png)
@@ -31,5 +31,5 @@
 ![5] (./screenshots/img5.png)
 ~
 
-## Autor
+## Author
 João Lucas <<joaolucas@linuxmail.org>>
