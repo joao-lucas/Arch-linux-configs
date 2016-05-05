@@ -4,9 +4,8 @@
 panel_fifo="/tmp/i3_lemonbar_${USER}"
 geometry="x14"
 font="-xos4-terminesspowerline-medium-r-normal--12-120-72-72-c-60-iso10646-1"
-iconfont="-xos4-terminusicons2mono-medium-r-normal--12-120-72-72-m-60-iso8859-1"
+iconfont="-wuncon-siji-medium-r-normal--10-100-75-75-c-80-iso10646-1"
 res_w=$(xrandr | grep "current" | awk '{print $8a}')
-snd_cha=$(amixer get Master | grep "Playback channels:" | awk '{if ($4 == "") {printf "%s: Playback", $3} else {printf "%s %s: Playback", $3, $4}}')
 
 # Alarm settings
 cpu_alert=75                        # % cpu use
@@ -16,21 +15,58 @@ net_alert=5                         # K net use
 upd_vol=3                           # Volume update
 upd_mail=300                        # Mail check update
 upd_mpd=5                           # MPD song update
+upd_bat=5                           # Battey update
+upd_win=1                           # Window title (xprop -spy only updates on focus change)
+
+# --- APPLY XRES BEGIN
+c_red_l="#ffCC6666"
+c_green_l="#ffBDE077"
+c_cyan_d="#ff72AD8C"
+c_cursor="#fffff000"
+c_yellow_d="#ffFEA63C"
+c_green_d="#ffB7CE42"
+c_yellow_l="#ffFFE863"
+c_foreground="#ffddeedd"
+c_blue_l="#ffAACCBB"
+c_magenta_l="#ffff5879"
+c_black_d="#ff25374A"
+c_black_new="#000000"
+c_background="#ff131D24"
+c_magenta_d="#ffF26B9E"
+c_black_l="#ff3A526B"
+c_blue_d="#ff66AABB"
+c_white_l="#ffFFFFFF"
+c_cyan_l="#ff9FE3BC"
+c_red_d="#ffBD4A4A"
+c_white_d="#ffDDEEDD"
+c_blue_new="#00008B"
+c_yellow_new="#FFD700"
+c_blue_new2="#4169E1"
+c_cinza="#505050"
+
+# --- APPLY XRES END
 
 # color definitions 
-color_back="#FF1D1F21"              # Default background
-color_fore="#FFC5C8C6"              # Default foreground
-color_head="#FFB5BD68"              # Background for first element
-color_sec_b1="#FF282A2E"            # Background for section 1
-color_sec_b2="#FF454A4F"            # Background for section 2
-color_sec_b3="#FF60676E"            # Background for section 3
-color_icon="#FF979997"              # For icons
-color_mail="#FFCE935F"              # Background color for mail alert
-color_chat="#FFCC6666"              # Background color for chat alert
-color_cpu="#FF5F819D"               # Background color for cpu alert
-color_net="#FF5E8D87"               # Background color for net alert
-color_disable="#FF1D1F21"           # Foreground for disable elements
-color_wsp="#FF8C9440"               # Background for selected workspace
+color_back="$c_black_new"              # Default background
+color_fore="$c_white_l"              # Default foreground
+#color_head="$c_yellow_new"              # Background for unselected workspaces
+color_head="$c_blue_new"              # Background for unselected workspaces
+color_wsp="$c_yellow_new"               # Background for selected workspace
+color_sec_b1="$c_blue_new"            # Background for section 1
+color_sec_b2="$c_cinza"            # Background for section 2
+color_sec_b3="$c_white_d"            # Background for section 3
+color_icon="$c_white_d"              # For icons
+color_mail="$c_magenta_l"              # Background color for mail alert
+color_chat="$c_magenta_l"              # Background color for chat alert
+color_cpu="$c_magenta_l"               # Background color for cpu alert
+color_net="$c_white_l"               # Background color for net alert
+color_disable="$c_black_d"           # Foreground for disable elements
+color_clock="$c_yellow_new"             # Color for clock
+color_clock_edge="$c_yellow_new"             # Color for clock
+
+color_success="$c_green_d"           # Positive color for good times
+color_warning="$c_yellow_new"           # Yellow color for warnings (eg, low battery)
+color_critical="$c_red_d"          # Red color for critical meters
 
 #default space between sections
 if [ ${res_w} -gt 1024 ]; then
@@ -46,17 +82,57 @@ sep_l_left=""                      # Powerline light separator left
 sep_l_right=""                     # Powerline light sepatator right
 
 # Icon glyphs from Terminusicons2
-icon_clock="DATA"                      # Clock icon
-icon_cpu="CPU "                        # CPU icon
-icon_mem="MEMORIA"                        # MEM icon
-icon_dl="DOWLOAD"                         # Download icon
-icon_ul="UPLOAD"                         # Upload icon
-icon_vol="c"                        # Volume icon
-icon_hd="DISCO LIVRE "                         # HD / icon
-icon_home="e"                       # HD /home icon
-icon_mail="f"                       # Mail icon
-icon_chat="g"                       # IRC/Chat icon
-icon_music="h"                      # Music icon
-icon_prog="JOAO LUCAS"                       # Window icon
-icon_contact="joao"                    # Contact icon
-icon_wsp="k"                        # Workspace icon
+# icon_clock="Õ"                      # Clock icon
+# icon_cpu="Ï"                        # CPU icon
+# icon_mem="Þ"                        # MEM icon
+# icon_dl="Ð"                         # Download icon
+# icon_ul="Ñ"                         # Upload icon
+# icon_vol="Ô"                        # Volume icon
+# icon_hd="À"                         # HD / icon
+# icon_home="Æ"                       # HD /home icon
+# icon_mail="Ó"                       # Mail icon
+# icon_chat="Ò"                       # IRC/Chat icon
+# icon_music="Î"                      # Music icon
+# icon_prog="Â"                       # Window icon
+# icon_contact="Á"                    # Contact icon
+# icon_wsp="Ç"                        # Workspace icon
+# icon_battery=""                    # Battery icon
+# icon_charging="+"                   # Charging icon
+
+# Icon glyphs from Siji
+icon_clock=""                      # Clock icon
+icon_cpu=""                        # CPU icon
+icon_mem=""                        # MEM icon
+icon_dl=""                         # Download icon
+icon_ul=""                         # Upload icon
+icon_vol=""                        # Volume icon
+icon_mute=""
+icon_hd=""                         # HD / icon
+icon_home="Æ"                       # HD /home icon
+icon_mail="Ó"                       # Mail icon
+icon_chat="Ò"                       # IRC/Chat icon
+icon_music=""                      # Music icon
+icon_music_playing=""
+icon_music_paused=""
+icon_prog=""        # Window icon
+icon_contact="Á"                    # Contact icon
+icon_wsp=""                        # Workspace icon
+icon_battery="         "
+icon_charging=""
+
+# Ionicon glyphs
+# icon_battery=""                      # Battery icon (half-ish full)
+# icon_clock=""                        # Clock icon
+# icon_cpu="?"                          # CPU icon
+# icon_globe=""                        # Globe icon
+# icon_home=""                         # Home icon (also linux)
+# icon_laptop=""                       # Laptop icon
+# icon_linux=""                        # Linux (Tux) icon
+# icon_mail=""                         # Email icon
+# icon_mem="?"                          # Memory icon
+# icon_music=""                        # Music icon
+# icon_paw=""                          # Paw icon
+# icon_prog=""                         # Window icon
+# icon_shell=""                        # Shell icon
+# icon_vol=""                          # Volume icon
+# icon_wsp=""                          # Workspace icon (paw duplicate for now)
