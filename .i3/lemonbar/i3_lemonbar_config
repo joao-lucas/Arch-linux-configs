@@ -30,7 +30,7 @@ c_foreground="#ffddeedd"
 c_blue_l="#ffAACCBB"
 c_magenta_l="#ffff5879"
 c_black_d="#ff25374A"
-c_black_new="#000000"
+c_black_new="#0000000"
 c_background="#ff131D24"
 c_magenta_d="#ffF26B9E"
 c_black_l="#ff3A526B"
@@ -39,10 +39,13 @@ c_white_l="#ffFFFFFF"
 c_cyan_l="#ff9FE3BC"
 c_red_d="#ffBD4A4A"
 c_white_d="#ffDDEEDD"
-c_blue_new="#00008B"
-c_yellow_new="#FFD700"
+c_blue_new="#0202BE"
+c_yellow_new="#C0C000"
 c_blue_new2="#4169E1"
-c_cinza="#505050"
+c_cinza="#303030"
+c_cinza2="#585858"
+c_azul="#1488FF"
+#c_amarelo="#BEBE00"
 
 # --- APPLY XRES END
 
@@ -52,7 +55,8 @@ color_fore="$c_white_l"              # Default foreground
 #color_head="$c_yellow_new"              # Background for unselected workspaces
 color_head="$c_blue_new"              # Background for unselected workspaces
 color_wsp="$c_yellow_new"               # Background for selected workspace
-color_sec_b1="$c_blue_new"            # Background for section 1
+#color_sec_b1="$c_blue_new"            # Background for section 1
+color_sec_b1="$c_cinza2"            # Background for section 1
 color_sec_b2="$c_cinza"            # Background for section 2
 color_sec_b3="$c_white_d"            # Background for section 3
 color_icon="$c_white_d"              # For icons
