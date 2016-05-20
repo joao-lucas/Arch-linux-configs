@@ -1,18 +1,16 @@
 # Arch Linux Config
 
-## Minha config
+## My config
 * Distro: archlinux
 * Window manager: i3
 * Shell: zsh
-* Emulador de terminal: termite
+* Emulador terminal: termite
 * Editor de texto: vim
 * Player de musica: mpd+ncmpcpp
 * Bar: lemonbar, i3blocks e i3status
 
 ## Screenshots	
 
-
-~
 ![1] (./screenshots/img1.png)
 ~
 
