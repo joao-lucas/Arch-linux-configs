@@ -12,8 +12,6 @@
 ## Screenshots	
 
 
-![0] (./screenshots/img0.png) 
-
 ~
 ![1] (./screenshots/img1.png)
 ~
