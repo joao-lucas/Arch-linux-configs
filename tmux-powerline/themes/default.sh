@@ -26,7 +26,7 @@ if [ -z $TMUX_POWERLINE_LEFT_STATUS_SEGMENTS ]; then
 		"hostname 20 0" \
 		"ifstat 30 255" \
                 #"ifstat_sys 24 255" \
-	        "lan_ip 33 255" \
+	        "lan_ip 8 255" \
 		"wan_ip 15 0" \  # ${TMUX_POWERLINE_SEPARATOR_LEFT_THIM} " \
 		#"vcs_branch 2 255" \
 		#"vcs_compare 60 255 ${TMUX_POWERLINE_SEPARATOR_RIGHT_THIN}" \
@@ -47,8 +47,8 @@ if [ -z $TMUX_POWERLINE_RIGHT_STATUS_SEGMENTS ]; then
 		#"load 237 167" \
                 #"tmux_mem_cpu_load 0 10 ${TMUX_POWERLINE_SEPARATOR_LEFT_BOLD} " \
 		#"xkb_layout 1 0" \
-		"date_day 8 255" \
-		"date 8 255 ${TMUX_POWERLINE_SEPARATOR_LEFT_THIN}" \
+		"date_day 0 255" \
+		"date 0 255 ${TMUX_POWERLINE_SEPARATOR_LEFT_THIN}" \
 		#"time 0 255 ${TMUX_POWERLINE_SEPARATOR_LEFT_THIN}" \
 	        #"utc_time 235 136 ${TMUX_POWERLINE_SEPARATOR_LEFT_THIN}" \	
 		"battery 7 0" \
